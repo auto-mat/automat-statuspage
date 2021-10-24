@@ -3,6 +3,12 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
+  - name: Automat hlavní stranka
+    url: https://auto-mat.cz
+  - name: Automat eshop
+    url: https://obchod.auto-mat.cz/
+  - name: Cyklisté sobě
+    url: https://www.cyklistesobe.cz/
   - name: Do Práce na Kole
     url: https://dopracenakole.cz
   - name: Do Práce na Kole - reg
@@ -36,7 +42,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /automat-statuspage
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/auto-mat/automat-statuspage/raw/master/assets/automat_logo_01_logo.png
   name: Automat Statuspage - Upptime
   introTitle: "Automat z.s. Status webových služeb"
   introMessage: Souhrn dostupnosti webových služeb Automatu
