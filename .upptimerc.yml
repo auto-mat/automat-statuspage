@@ -16,11 +16,11 @@ sites:
   - name: Geoserver
     url: https://geoserver1.prahounakole.cz
   - name: Zažit Město Jinak
-    url: https://zazitmestojina.cz
+    url: https://zazitmestojinak.cz
   - name: Passbolt
-    url: https://automat.passbotl.klub-pratel.cz
+    url: https://automat.passbolt.klub-pratel.cz
   - name: Klub Přatel - Automat
-    url: https://auto-mat.klub-pratel.cz
+    url: https://automat.klub-pratel.cz
   - name: Klub Přatel - Brontosaurus
     url: https://brontosaurus.klub-pratel.cz
   - name: Klub Přatel - Investigace
@@ -34,12 +34,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /automat-statuspage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Automat Statuspage - Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Automat z.s. Status webových služeb"
+  introMessage: Souhrn dostupnosti webových služeb Automatu
   navbar:
     - title: Status
       href: /
