@@ -3,41 +3,40 @@ owner: auto-mat # Your GitHub organization or username, where this repository li
 repo: automat-statuspage # The name of this repository
 
 sites:
-  - name: Automat hlavní stranka : auto-mat.cz
+  - name: Automat hlavní stranka § auto-mat.cz
     url: https://auto-mat.cz
-  - name: Automat eshop : obchod.auto-mat.cz
+  - name: Automat eshop § obchod.auto-mat.cz
     url: https://obchod.auto-mat.cz/
-  - name: Cyklisté sobě : www.cyklistesobe.cz
+  - name: Cyklisté sobě § www.cyklistesobe.cz
     url: https://www.cyklistesobe.cz/
-  - name: Do Práce na Kole : dopracenakole.cz
+  - name: Do Práce na Kole § dopracenakole.cz
     url: https://dopracenakole.cz
-  - name: Do Práce na Kole - reg : dpnk.dopracenakole.cz
+  - name: Do Práce na Kole - reg § dpnk.dopracenakole.cz
     url: https://dpnk.dopracenakole.cz
-  - name: Do Práce na Kole - reg test : test.dopracenakole.cz
+  - name: Do Práce na Kole - reg test § test.dopracenakole.cz
     url: https://test.dopracenakole.cz
-  - name: Městem na Kole : mestemnakole.cz
+  - name: Městem na Kole § mestemnakole.cz
     url: https://mestemnakole.cz
-  - name: Mapa Městem na Kole : mapa.prahounakole.cz
+  - name: Mapa Městem na Kole § mapa.prahounakole.cz
     url: https://mapa.prahounakole.cz
-  - name: Geoserver : geoserver1.prahounakole.cz
+  - name: Geoserver § geoserver1.prahounakole.cz
     url: https://geoserver1.prahounakole.cz
   - name: Dlaždice pro mapu
     url: https://tiles.prahounakole.cz/
-  - name: Zažit Město Jinak : zazitmestojinak.cz
+  - name: Zažit Město Jinak § zazitmestojinak.cz
     url: https://zazitmestojinak.cz
-  - name: Passbolt : automat.passbolt.klub-pratel.cz
+  - name: Passbolt § automat.passbolt.klub-pratel.cz
     url: https://automat.passbolt.klub-pratel.cz
-  - name: Klub Přatel - Automat : automat.klub-pratel.cz
+  - name: Klub Přatel - Automat § automat.klub-pratel.cz
     url: https://automat.klub-pratel.cz
-  - name: Klub Přatel - Brontosaurus : brontosaurus.klub-pratel.cz
+  - name: Klub Přatel - Brontosaurus § brontosaurus.klub-pratel.cz
     url: https://brontosaurus.klub-pratel.cz
-  - name: Klub Přatel - Investigace : investigace.klub-pratel.cz
+  - name: Klub Přatel - Investigace § investigace.klub-pratel.cz
     url: https://investigace.klub-pratel.cz
-  - name: Klub Přatel - Test : test.klub-pratel.cz
+  - name: Klub Přatel - Test § test.klub-pratel.cz
     url: https://test.klub-pratel.cz
-  - name: Limesurvey : limesurvey.dopracenakole.net
+  - name: Limesurvey § limesurvey.dopracenakole.net
     url: https://limesurvey.dopracenakole.net
-  - name: Dlaždice pro mapu
 
 
 status-website:
