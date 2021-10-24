@@ -3,14 +3,33 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Do Práce na Kole
+    url: https://dopracenakole.cz
+  - name: Do Práce na Kole - reg
+    url: https://dpnk.dopracenakole.cz
+  - name: Do Práce na Kole - reg test
+    url: https://test.dopracenakole.cz
+  - name: Městem na Kole
+    url: https://mestemnakole.cz
+  - name: Mapa Městem na Kole
+    url: https://mapa.prahounakole.cz
+  - name: Geoserver
+    url: https://geoserver1.prahounakole.cz
+  - name: Zažit Město Jinak
+    url: https://zazitmestojina.cz
+  - name: Passbolt
+    url: https://automat.passbotl.klub-pratel.cz
+  - name: Klub Přatel - Automat
+    url: https://auto-mat.klub-pratel.cz
+  - name: Klub Přatel - Brontosaurus
+    url: https://brontosaurus.klub-pratel.cz
+  - name: Klub Přatel - Investigace
+    url: https://investigace.klub-pratel.cz
+  - name: Klub Přatel - Test
+    url: https://test.klub-pratel.cz
+  - name: Limesurvey
+    url: https://limesurvey.dopracenakole.net
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,7 +37,7 @@ status-website:
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Automat Statuspage - Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
