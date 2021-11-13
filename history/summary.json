@@ -134,9 +134,9 @@
     "url": "https://mapa.prahounakole.cz",
     "icon": "https://favicons.githubusercontent.com/mapa.prahounakole.cz",
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
@@ -146,6 +146,7 @@
     "timeMonth": 901,
     "timeYear": 901,
     "dailyMinutesDown": {
+      "2021-11-13": 0,
       "2021-10-26": 46,
       "2021-10-25": 20
     }
