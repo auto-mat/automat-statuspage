@@ -4,10 +4,10 @@
     "url": "https://auto-mat.cz",
     "icon": "https://favicons.githubusercontent.com/auto-mat.cz",
     "slug": "automat-hlavni-stranka-auto-mat-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2789,
@@ -15,7 +15,9 @@
     "timeWeek": 2951,
     "timeMonth": 2789,
     "timeYear": 2789,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-14": 1
+    }
   },
   {
     "name": "Automat eshop § obchod.auto-mat.cz",
@@ -135,13 +137,13 @@
     "icon": "https://favicons.githubusercontent.com/mapa.prahounakole.cz",
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 897,
-    "timeDay": 842,
+    "timeDay": 975,
     "timeWeek": 846,
     "timeMonth": 897,
     "timeYear": 897,
