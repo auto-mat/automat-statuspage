@@ -4,9 +4,9 @@
     "url": "https://auto-mat.cz",
     "icon": "https://favicons.githubusercontent.com/auto-mat.cz",
     "slug": "automat-hlavni-stranka-auto-mat-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2228,
     "timeMonth": 2780,
     "timeYear": 2914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-22": 0
+    }
   },
   {
     "name": "Automat eshop § obchod.auto-mat.cz",
@@ -23,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/obchod.auto-mat.cz",
     "slug": "automat-eshop-obchod-auto-mat-cz",
     "status": "up",
-    "uptime": "93.07%",
+    "uptime": "92.21%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.70%",
-    "uptimeMonth": "86.71%",
-    "uptimeYear": "93.07%",
+    "uptimeWeek": "34.98%",
+    "uptimeMonth": "84.93%",
+    "uptimeYear": "92.21%",
     "time": 1621,
     "timeDay": 1210,
     "timeWeek": 2882,
     "timeMonth": 1793,
     "timeYear": 1621,
     "dailyMinutesDown": {
-      "2021-12-22": 59,
+      "2021-12-22": 837,
       "2021-12-21": 1440,
       "2021-12-20": 1440,
       "2021-12-19": 1440,
@@ -153,7 +155,7 @@
     "time": 1231,
     "timeDay": 909,
     "timeWeek": 848,
-    "timeMonth": 1633,
+    "timeMonth": 1651,
     "timeYear": 1231,
     "dailyMinutesDown": {
       "2021-11-27": 15,
