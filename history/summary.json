@@ -4,9 +4,9 @@
     "url": "https://auto-mat.cz",
     "icon": "https://favicons.githubusercontent.com/auto-mat.cz",
     "slug": "automat-hlavni-stranka-auto-mat-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 2390,
     "timeYear": 2743,
     "dailyMinutesDown": {
+      "2022-01-04": 0,
       "2021-12-22": 17
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/obchod.auto-mat.cz",
     "slug": "automat-eshop-obchod-auto-mat-cz",
     "status": "up",
-    "uptime": "76.11%",
+    "uptime": "75.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "43.97%",
-    "uptimeYear": "76.11%",
+    "uptimeMonth": "41.86%",
+    "uptimeYear": "75.43%",
     "time": 1543,
     "timeDay": 874,
     "timeWeek": 1060,
     "timeMonth": 1723,
     "timeYear": 1543,
     "dailyMinutesDown": {
-      "2022-01-04": 58,
+      "2022-01-04": 984,
       "2022-01-03": 1440,
       "2022-01-02": 1440,
       "2022-01-01": 1440,
@@ -85,9 +86,9 @@
     "url": "https://dopracenakole.cz",
     "icon": "https://favicons.githubusercontent.com/dopracenakole.cz",
     "slug": "do-prace-na-kole-dopracenakole-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +97,9 @@
     "timeWeek": 2219,
     "timeMonth": 2601,
     "timeYear": 2273,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-04": 0
+    }
   },
   {
     "name": "Do Práce na Kole - reg § dpnk.dopracenakole.cz",
