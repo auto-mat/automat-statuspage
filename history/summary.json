@@ -37,7 +37,7 @@
     "timeMonth": 1340,
     "timeYear": 1474,
     "dailyMinutesDown": {
-      "2022-02-08": 1305,
+      "2022-02-08": 1315,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
@@ -382,19 +382,19 @@
     "url": "https://limesurvey.dopracenakole.net",
     "icon": "https://favicons.githubusercontent.com/limesurvey.dopracenakole.net",
     "slug": "limesurvey-limesurvey-dopracenakole-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "92.59%",
-    "uptimeWeek": "98.94%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "91.90%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.90%",
-    "time": 919,
-    "timeDay": 860,
-    "timeWeek": 923,
-    "timeMonth": 921,
-    "timeYear": 919,
+    "time": 923,
+    "timeDay": 901,
+    "timeWeek": 945,
+    "timeMonth": 930,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2022-02-08": 106,
+      "2022-02-08": 116,
       "2021-10-26": 45
     }
   }
