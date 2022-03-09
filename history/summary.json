@@ -4,10 +4,10 @@
     "url": "https://auto-mat.cz",
     "icon": "https://favicons.githubusercontent.com/auto-mat.cz",
     "slug": "automat-hlavni-stranka-auto-mat-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 2505,
@@ -16,6 +16,7 @@
     "timeMonth": 2241,
     "timeYear": 2505,
     "dailyMinutesDown": {
+      "2022-03-09": 1,
       "2022-01-04": 38,
       "2021-12-22": 17
     }
@@ -26,18 +27,18 @@
     "icon": "https://favicons.githubusercontent.com/obchod.auto-mat.cz",
     "slug": "automat-eshop-obchod-auto-mat-cz",
     "status": "up",
-    "uptime": "40.12%",
+    "uptime": "39.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "40.12%",
+    "uptimeYear": "39.94%",
     "time": 1469,
     "timeDay": 1771,
     "timeWeek": 1525,
     "timeMonth": 1445,
     "timeYear": 1469,
     "dailyMinutesDown": {
-      "2022-03-09": 69,
+      "2022-03-09": 948,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
@@ -150,10 +151,10 @@
     "url": "https://dopracenakole.cz",
     "icon": "https://favicons.githubusercontent.com/dopracenakole.cz",
     "slug": "do-prace-na-kole-dopracenakole-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2342,
@@ -162,6 +163,7 @@
     "timeMonth": 2339,
     "timeYear": 2342,
     "dailyMinutesDown": {
+      "2022-03-09": 1,
       "2022-01-04": 38
     }
   },
@@ -243,7 +245,7 @@
     "time": 1007,
     "timeDay": 954,
     "timeWeek": 890,
-    "timeMonth": 858,
+    "timeMonth": 849,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2022-03-05": 34,
@@ -298,9 +300,9 @@
     "url": "https://zazitmestojinak.cz",
     "icon": "https://favicons.githubusercontent.com/zazitmestojinak.cz",
     "slug": "zazit-mesto-jinak-zazitmestojinak-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -309,7 +311,9 @@
     "timeWeek": 1039,
     "timeMonth": 1038,
     "timeYear": 953,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   },
   {
     "name": "Passbolt § automat.passbolt.klub-pratel.cz",
@@ -383,7 +387,7 @@
     "time": 739,
     "timeDay": 1036,
     "timeWeek": 788,
-    "timeMonth": 784,
+    "timeMonth": 780,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2021-10-26": 45
