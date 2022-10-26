@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2286,
-    "timeDay": 1337,
-    "timeWeek": 1667,
-    "timeMonth": 1914,
+    "time": 2288,
+    "timeDay": 2997,
+    "timeWeek": 1937,
+    "timeMonth": 1965,
     "timeYear": 2279,
     "dailyMinutesDown": {
       "2022-06-17": 23,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
     "status": "up",
-    "uptime": "52.10%",
+    "uptime": "52.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "52.04%",
     "time": 1444,
-    "timeDay": 1211,
-    "timeWeek": 1297,
-    "timeMonth": 1486,
+    "timeDay": 1154,
+    "timeWeek": 1278,
+    "timeMonth": 1488,
     "timeYear": 1443,
     "dailyMinutesDown": {
       "2022-09-07": 43,
@@ -226,15 +226,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cyklistesobe.cz.ico",
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "up",
-    "uptime": "91.58%",
+    "uptime": "91.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.57%",
-    "time": 4723,
-    "timeDay": 1925,
-    "timeWeek": 3266,
-    "timeMonth": 2448,
+    "time": 4716,
+    "timeDay": 1193,
+    "timeWeek": 3284,
+    "timeMonth": 2460,
     "timeYear": 4739,
     "dailyMinutesDown": {
       "2022-08-06": 25,
@@ -306,11 +306,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2281,
-    "timeDay": 1408,
-    "timeWeek": 1835,
-    "timeMonth": 2412,
-    "timeYear": 2283,
+    "time": 2283,
+    "timeDay": 3221,
+    "timeWeek": 2064,
+    "timeMonth": 2467,
+    "timeYear": 2287,
     "dailyMinutesDown": {
       "2022-04-12": 19,
       "2022-04-08": 24,
@@ -323,16 +323,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dpnk.dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-reg-dpnk-dopracenakole-cz",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.23%",
     "uptimeYear": "97.53%",
-    "time": 1329,
-    "timeDay": 894,
-    "timeWeek": 1222,
-    "timeMonth": 1301,
-    "timeYear": 1330,
+    "time": 1328,
+    "timeDay": 1184,
+    "timeWeek": 1198,
+    "timeMonth": 1313,
+    "timeYear": 1331,
     "dailyMinutesDown": {
       "2022-10-16": 30,
       "2022-10-13": 542,
@@ -367,8 +367,7 @@
       "2022-02-25": 19,
       "2022-02-01": 527,
       "2022-01-31": 91,
-      "2021-12-13": 45,
-      "2021-10-26": 21
+      "2021-12-13": 45
     }
   },
   {
@@ -383,9 +382,9 @@
     "uptimeMonth": "97.16%",
     "uptimeYear": "99.72%",
     "time": 904,
-    "timeDay": 751,
-    "timeWeek": 949,
-    "timeMonth": 977,
+    "timeDay": 966,
+    "timeWeek": 952,
+    "timeMonth": 987,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2022-10-13": 688,
@@ -393,8 +392,7 @@
       "2022-06-17": 19,
       "2022-06-14": 122,
       "2022-06-13": 17,
-      "2022-04-29": 67,
-      "2021-10-26": 21
+      "2022-04-29": 67
     }
   },
   {
@@ -408,11 +406,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.79%",
-    "time": 873,
-    "timeDay": 558,
-    "timeWeek": 638,
+    "time": 872,
+    "timeDay": 624,
+    "timeWeek": 639,
     "timeMonth": 889,
-    "timeYear": 872,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2022-10-13": 31,
       "2022-09-14": 404,
@@ -433,10 +431,10 @@
     "uptimeMonth": "97.15%",
     "uptimeYear": "99.58%",
     "time": 930,
-    "timeDay": 854,
-    "timeWeek": 812,
-    "timeMonth": 816,
-    "timeYear": 930,
+    "timeDay": 705,
+    "timeWeek": 803,
+    "timeMonth": 821,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2022-10-20": 66,
       "2022-10-13": 574,
@@ -463,8 +461,7 @@
       "2022-02-16": 24,
       "2022-02-08": 21,
       "2022-02-02": 34,
-      "2021-11-27": 15,
-      "2021-10-26": 46
+      "2021-11-27": 15
     }
   },
   {
@@ -479,17 +476,16 @@
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.74%",
     "time": 669,
-    "timeDay": 455,
-    "timeWeek": 656,
-    "timeMonth": 679,
+    "timeDay": 642,
+    "timeWeek": 608,
+    "timeMonth": 687,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2022-10-13": 575,
       "2022-10-12": 556,
       "2022-06-17": 55,
       "2022-06-14": 121,
-      "2022-06-13": 16,
-      "2021-10-26": 46
+      "2022-06-13": 16
     }
   },
   {
@@ -503,10 +499,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 661,
-    "timeWeek": 548,
-    "timeMonth": 663,
+    "time": 637,
+    "timeDay": 555,
+    "timeWeek": 558,
+    "timeMonth": 665,
     "timeYear": 637,
     "dailyMinutesDown": {}
   },
@@ -521,11 +517,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 947,
+    "time": 946,
     "timeDay": 601,
-    "timeWeek": 629,
+    "timeWeek": 626,
     "timeMonth": 799,
-    "timeYear": 946,
+    "timeYear": 944,
     "dailyMinutesDown": {}
   },
   {
@@ -539,18 +535,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "99.73%",
-    "time": 930,
-    "timeDay": 1012,
-    "timeWeek": 893,
-    "timeMonth": 957,
+    "time": 929,
+    "timeDay": 765,
+    "timeWeek": 900,
+    "timeMonth": 959,
     "timeYear": 929,
     "dailyMinutesDown": {
       "2022-10-13": 648,
       "2022-10-12": 555,
       "2022-06-17": 19,
       "2022-06-14": 120,
-      "2022-06-13": 15,
-      "2021-10-26": 45
+      "2022-06-13": 15
     }
   },
   {
@@ -565,17 +560,16 @@
     "uptimeMonth": "97.37%",
     "uptimeYear": "99.74%",
     "time": 803,
-    "timeDay": 587,
-    "timeWeek": 744,
-    "timeMonth": 832,
+    "timeDay": 885,
+    "timeWeek": 787,
+    "timeMonth": 841,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2022-10-13": 596,
       "2022-10-12": 555,
       "2022-06-17": 19,
       "2022-06-14": 120,
-      "2022-06-13": 15,
-      "2021-10-26": 45
+      "2022-06-13": 15
     }
   },
   {
@@ -589,10 +583,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 803,
-    "timeDay": 809,
-    "timeWeek": 717,
-    "timeMonth": 1031,
+    "time": 802,
+    "timeDay": 686,
+    "timeWeek": 733,
+    "timeMonth": 1033,
     "timeYear": 802,
     "dailyMinutesDown": {}
   },
@@ -607,18 +601,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "99.74%",
-    "time": 782,
-    "timeDay": 791,
-    "timeWeek": 657,
-    "timeMonth": 841,
-    "timeYear": 781,
+    "time": 781,
+    "timeDay": 704,
+    "timeWeek": 672,
+    "timeMonth": 844,
+    "timeYear": 780,
     "dailyMinutesDown": {
       "2022-10-13": 597,
       "2022-10-12": 555,
       "2022-06-17": 19,
       "2022-06-14": 120,
-      "2022-06-13": 14,
-      "2021-10-26": 45
+      "2022-06-13": 14
     }
   },
   {
@@ -627,18 +620,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.klub-pratel.cz.ico",
     "slug": "klub-pratel-test-test-klub-pratel-cz",
     "status": "down",
-    "uptime": "49.36%",
+    "uptime": "49.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.31%",
+    "uptimeYear": "49.04%",
     "time": 677,
-    "timeDay": 613,
-    "timeWeek": 533,
-    "timeMonth": 630,
+    "timeDay": 620,
+    "timeWeek": 536,
+    "timeMonth": 639,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2022-10-25": 134,
+      "2022-10-26": 114,
+      "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
@@ -824,8 +818,7 @@
       "2022-04-25": 1440,
       "2022-04-24": 1156,
       "2022-04-22": 862,
-      "2022-04-21": 723,
-      "2021-10-26": 45
+      "2022-04-21": 723
     }
   },
   {
@@ -840,18 +833,17 @@
     "uptimeMonth": "97.16%",
     "uptimeYear": "99.71%",
     "time": 940,
-    "timeDay": 827,
-    "timeWeek": 917,
-    "timeMonth": 958,
-    "timeYear": 939,
+    "timeDay": 762,
+    "timeWeek": 874,
+    "timeMonth": 960,
+    "timeYear": 938,
     "dailyMinutesDown": {
       "2022-10-13": 688,
       "2022-10-12": 555,
       "2022-06-17": 19,
       "2022-06-14": 119,
       "2022-06-13": 13,
-      "2022-02-08": 106,
-      "2021-10-26": 45
+      "2022-02-08": 106
     }
   }
 ]
