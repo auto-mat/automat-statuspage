@@ -28,17 +28,17 @@
     "slug": "automat-eshop-obchod-auto-mat-cz",
     "status": "up",
     "uptime": "59.98%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "57.64%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "57.66%",
     "time": 1415,
     "timeDay": 1395,
     "timeWeek": 1383,
     "timeMonth": 1362,
     "timeYear": 1401,
     "dailyMinutesDown": {
-      "2023-01-08": 28,
+      "2023-01-08": 19,
       "2023-01-07": 54,
       "2023-01-06": 104,
       "2023-01-05": 191,
@@ -216,8 +216,7 @@
       "2022-01-13": 1440,
       "2022-01-12": 1440,
       "2022-01-11": 1440,
-      "2022-01-10": 1440,
-      "2022-01-09": 1440
+      "2022-01-10": 1440
     }
   },
   {
@@ -678,13 +677,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.52%",
+    "uptimeYear": "28.51%",
     "time": 672,
     "timeDay": 647,
     "timeWeek": 624,
     "timeMonth": 680,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2023-01-09": 76,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
