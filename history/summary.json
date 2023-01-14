@@ -26,12 +26,12 @@
     "url": "https://obchod.auto-mat.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "92.84%",
+    "uptimeDay": "92.81%",
     "uptimeWeek": "93.69%",
-    "uptimeMonth": "93.50%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "99.47%",
     "time": 1415,
     "timeDay": 1399,
     "timeWeek": 1401,
@@ -67,7 +67,7 @@
       "2022-12-19": 93,
       "2022-12-18": 56,
       "2022-12-17": 89,
-      "2022-12-16": 112
+      "2022-12-16": 75
     }
   },
   {
@@ -540,7 +540,7 @@
     "timeMonth": 690,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2023-01-14": 898,
+      "2023-01-14": 917,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
       "2023-01-11": 1440,
