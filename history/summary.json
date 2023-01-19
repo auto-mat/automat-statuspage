@@ -28,10 +28,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "93.76%",
-    "uptimeMonth": "93.41%",
+    "uptime": "99.55%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "93.85%",
+    "uptimeMonth": "93.38%",
     "uptimeYear": "99.45%",
     "time": 1418,
     "timeDay": 1499,
@@ -39,7 +39,7 @@
     "timeMonth": 1380,
     "timeYear": 1406,
     "dailyMinutesDown": {
-      "2023-01-18": 25,
+      "2023-01-18": 15,
       "2023-01-17": 32,
       "2023-01-16": 206,
       "2023-01-15": 68,
@@ -69,7 +69,7 @@
       "2022-12-22": 39,
       "2022-12-21": 148,
       "2022-12-20": 123,
-      "2022-12-19": 19
+      "2022-12-19": 39
     }
   },
   {
@@ -250,7 +250,7 @@
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "48.21%",
+    "uptimeDay": "54.30%",
     "uptimeWeek": "87.14%",
     "uptimeMonth": "97.04%",
     "uptimeYear": "98.92%",
@@ -300,8 +300,7 @@
       "2022-10-13": 31,
       "2022-09-14": 404,
       "2022-09-13": 465,
-      "2022-05-06": 62,
-      "2022-01-19": 150
+      "2022-05-06": 62
     }
   },
   {
@@ -548,18 +547,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.klub-pratel.cz.ico",
     "slug": "klub-pratel-test-test-klub-pratel-cz",
     "status": "down",
-    "uptime": "39.97%",
+    "uptime": "39.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.78%",
+    "uptimeYear": "25.76%",
     "time": 672,
     "timeDay": 664,
     "timeWeek": 672,
     "timeMonth": 682,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2023-01-18": 1432,
+      "2023-01-19": 80,
+      "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
       "2023-01-15": 1440,
@@ -840,7 +840,7 @@
     "slug": "limesurvey-limesurvey-dopracenakole-net",
     "status": "up",
     "uptime": "99.07%",
-    "uptimeDay": "52.94%",
+    "uptimeDay": "59.01%",
     "uptimeWeek": "84.04%",
     "uptimeMonth": "96.33%",
     "uptimeYear": "98.86%",
