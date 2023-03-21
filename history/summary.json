@@ -30,16 +30,16 @@
     "url": "https://obchod.auto-mat.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "97.59%",
+    "uptimeDay": "97.57%",
     "uptimeWeek": "95.87%",
     "uptimeMonth": "95.33%",
     "uptimeYear": "99.52%",
-    "time": 1465,
+    "time": 1464,
     "timeDay": 1329,
     "timeWeek": 1387,
-    "timeMonth": 1408,
+    "timeMonth": 1409,
     "timeYear": 1465,
     "dailyMinutesDown": {
       "2023-03-21": 15,
@@ -76,7 +76,7 @@
       "2023-02-18": 95,
       "2023-02-17": 100,
       "2023-02-16": 16,
-      "2023-02-15": 44
+      "2023-02-15": 27
     }
   },
   {
@@ -434,8 +434,8 @@
     "status": "up",
     "uptime": "97.30%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.64%",
-    "uptimeMonth": "71.27%",
+    "uptimeWeek": "81.99%",
+    "uptimeMonth": "71.35%",
     "uptimeYear": "96.21%",
     "time": 652,
     "timeDay": 462,
@@ -623,7 +623,7 @@
     "timeMonth": 583,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2023-03-21": 393,
+      "2023-03-21": 428,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
