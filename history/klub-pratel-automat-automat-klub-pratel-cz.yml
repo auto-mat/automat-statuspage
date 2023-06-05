@@ -1,7 +1,7 @@
 url: https://automat.klub-pratel.cz
-status: up
-code: 200
-responseTime: 545
-lastUpdated: 2023-06-05T13:59:12.624Z
+status: down
+code: 502
+responseTime: 3590
+lastUpdated: 2023-06-05T21:20:57.126Z
 startTime: Sun Oct 24 2021 16:44:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
