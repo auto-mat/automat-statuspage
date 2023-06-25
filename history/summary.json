@@ -132,8 +132,7 @@
       "2022-07-06": 1440,
       "2022-07-05": 204,
       "2022-06-29": 59,
-      "2022-06-27": 28,
-      "2022-06-25": 59
+      "2022-06-27": 28
     }
   },
   {
@@ -413,18 +412,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiles.prahounakole.cz.ico",
     "slug": "dlazdice-pro-mapu",
     "status": "down",
-    "uptime": "88.06%",
+    "uptime": "88.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.10%",
+    "uptimeYear": "80.07%",
     "time": 657,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2023-06-24": 1400,
+      "2023-06-25": 108,
+      "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
@@ -514,9 +514,9 @@
     "slug": "zazit-mesto-jinak-zazitmestojinak-cz",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
     "time": 1071,
     "timeDay": 906,
@@ -524,7 +524,6 @@
     "timeMonth": 778,
     "timeYear": 1099,
     "dailyMinutesDown": {
-      "2023-06-24": 10,
       "2023-04-13": 26,
       "2023-01-27": 23,
       "2023-01-25": 15,
@@ -577,7 +576,7 @@
     "uptimeYear": "98.88%",
     "time": 985,
     "timeDay": 546,
-    "timeWeek": 1357,
+    "timeWeek": 1187,
     "timeMonth": 1702,
     "timeYear": 1059,
     "dailyMinutesDown": {
@@ -669,7 +668,8 @@
     "timeMonth": 553,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2023-06-24": 1400,
+      "2023-06-25": 108,
+      "2023-06-24": 1440,
       "2023-06-23": 1440,
       "2023-06-22": 1440,
       "2023-06-21": 1440,
@@ -1032,8 +1032,7 @@
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
-      "2022-06-26": 1440,
-      "2022-06-25": 1440
+      "2022-06-26": 1440
     }
   },
   {
@@ -1049,7 +1048,7 @@
     "uptimeYear": "98.75%",
     "time": 1019,
     "timeDay": 882,
-    "timeWeek": 1243,
+    "timeWeek": 959,
     "timeMonth": 1324,
     "timeYear": 1025,
     "dailyMinutesDown": {
