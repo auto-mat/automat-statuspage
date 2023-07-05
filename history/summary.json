@@ -129,8 +129,7 @@
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
-      "2022-07-06": 1440,
-      "2022-07-05": 204
+      "2022-07-06": 1440
     }
   },
   {
@@ -173,7 +172,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "97.82%",
+    "uptimeYear": "97.85%",
     "time": 1718,
     "timeDay": 1940,
     "timeWeek": 2929,
@@ -225,8 +224,7 @@
       "2022-08-15": 122,
       "2022-07-08": 518,
       "2022-07-07": 1440,
-      "2022-07-06": 1440,
-      "2022-07-05": 1440
+      "2022-07-06": 1440
     }
   },
   {
@@ -406,18 +404,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiles.prahounakole.cz.ico",
     "slug": "dlazdice-pro-mapu",
     "status": "down",
-    "uptime": "86.63%",
+    "uptime": "86.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.36%",
+    "uptimeYear": "77.33%",
     "time": 658,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-07-04": 1417,
+      "2023-07-05": 97,
+      "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
@@ -574,17 +573,16 @@
     "slug": "klub-pratel-automat-automat-klub-pratel-cz",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "98.87%",
     "time": 1030,
-    "timeDay": 1956,
+    "timeDay": 1808,
     "timeWeek": 1815,
     "timeMonth": 1778,
     "timeYear": 1110,
     "dailyMinutesDown": {
-      "2023-07-04": 10,
       "2023-07-03": 15,
       "2023-07-01": 20,
       "2023-06-25": 22,
@@ -636,7 +634,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "97.99%",
     "time": 959,
-    "timeDay": 1678,
+    "timeDay": 1883,
     "timeWeek": 1782,
     "timeMonth": 1689,
     "timeYear": 1022,
@@ -678,7 +676,8 @@
     "timeMonth": 525,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2023-07-04": 1417,
+      "2023-07-05": 97,
+      "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
@@ -1041,8 +1040,7 @@
       "2022-07-09": 1440,
       "2022-07-08": 1440,
       "2022-07-07": 1440,
-      "2022-07-06": 1440,
-      "2022-07-05": 1440
+      "2022-07-06": 1440
     }
   },
   {
