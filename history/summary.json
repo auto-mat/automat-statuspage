@@ -91,7 +91,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.95%",
+    "uptimeYear": "93.98%",
     "time": 3668,
     "timeDay": 819,
     "timeWeek": 1074,
@@ -128,8 +128,7 @@
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
-      "2022-07-07": 1440,
-      "2022-07-06": 1440
+      "2022-07-07": 1440
     }
   },
   {
@@ -172,7 +171,7 @@
     "uptimeDay": "97.13%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.11%",
     "time": 1724,
     "timeDay": 2268,
     "timeWeek": 2911,
@@ -224,8 +223,7 @@
       "2022-08-29": 26,
       "2022-08-15": 122,
       "2022-07-08": 518,
-      "2022-07-07": 1440,
-      "2022-07-06": 1440
+      "2022-07-07": 1440
     }
   },
   {
@@ -235,9 +233,9 @@
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "97.80%",
     "time": 1296,
     "timeDay": 6117,
@@ -245,7 +243,6 @@
     "timeMonth": 2138,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2023-07-05": 9,
       "2023-06-25": 23,
       "2023-06-23": 40,
       "2023-06-14": 16,
@@ -406,18 +403,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiles.prahounakole.cz.ico",
     "slug": "dlazdice-pro-mapu",
     "status": "down",
-    "uptime": "86.50%",
+    "uptime": "86.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.09%",
+    "uptimeYear": "77.06%",
     "time": 659,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-07-05": 1397,
+      "2023-07-06": 99,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -581,7 +579,7 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "98.87%",
     "time": 1040,
-    "timeDay": 2057,
+    "timeDay": 1978,
     "timeWeek": 1896,
     "timeMonth": 1781,
     "timeYear": 1120,
@@ -668,7 +666,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.klub-pratel.cz.ico",
     "slug": "klub-pratel-test-test-klub-pratel-cz",
     "status": "down",
-    "uptime": "29.13%",
+    "uptime": "29.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -679,7 +677,8 @@
     "timeMonth": 530,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2023-07-05": 1397,
+      "2023-07-06": 100,
+      "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
@@ -1042,8 +1041,7 @@
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
-      "2022-07-07": 1440,
-      "2022-07-06": 1440
+      "2022-07-07": 1440
     }
   },
   {
