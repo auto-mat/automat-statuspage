@@ -91,7 +91,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.33%",
+    "uptimeYear": "95.35%",
     "time": 3568,
     "timeDay": 1079,
     "timeWeek": 1003,
@@ -123,8 +123,7 @@
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
-      "2022-07-12": 1440,
-      "2022-07-11": 1440
+      "2022-07-12": 1440
     }
   },
   {
@@ -166,12 +165,12 @@
     "uptime": "97.98%",
     "uptimeDay": "98.77%",
     "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.17%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "98.73%",
     "time": 1749,
     "timeDay": 2498,
     "timeWeek": 2727,
-    "timeMonth": 2453,
+    "timeMonth": 2439,
     "timeYear": 1768,
     "dailyMinutesDown": {
       "2023-07-10": 18,
@@ -303,9 +302,9 @@
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "98.71%",
     "time": 1062,
     "timeDay": 2082,
@@ -313,7 +312,6 @@
     "timeMonth": 1341,
     "timeYear": 1082,
     "dailyMinutesDown": {
-      "2023-07-10": 9,
       "2023-07-01": 16,
       "2023-06-21": 23,
       "2023-06-10": 20,
@@ -404,18 +402,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiles.prahounakole.cz.ico",
     "slug": "dlazdice-pro-mapu",
     "status": "down",
-    "uptime": "85.80%",
+    "uptime": "85.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "75.71%",
+    "uptimeYear": "75.69%",
     "time": 660,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-07-10": 1426,
+      "2023-07-11": 83,
+      "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
@@ -586,7 +585,7 @@
     "uptimeYear": "98.86%",
     "time": 1074,
     "timeDay": 2042,
-    "timeWeek": 1905,
+    "timeWeek": 1885,
     "timeMonth": 1784,
     "timeYear": 1154,
     "dailyMinutesDown": {
@@ -644,7 +643,7 @@
     "uptimeYear": "97.98%",
     "time": 982,
     "timeDay": 2068,
-    "timeWeek": 1671,
+    "timeWeek": 1722,
     "timeMonth": 1652,
     "timeYear": 1048,
     "dailyMinutesDown": {
@@ -687,7 +686,8 @@
     "timeMonth": 537,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-07-10": 1426,
+      "2023-07-11": 83,
+      "2023-07-10": 1440,
       "2023-07-09": 1440,
       "2023-07-08": 1440,
       "2023-07-07": 1440,
@@ -1050,8 +1050,7 @@
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
-      "2022-07-12": 1440,
-      "2022-07-11": 1440
+      "2022-07-12": 1440
     }
   },
   {
