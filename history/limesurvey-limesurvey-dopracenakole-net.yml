@@ -1,7 +1,7 @@
 url: https://limesurvey.dopracenakole.net
-status: up
-code: 200
-responseTime: 1092
-lastUpdated: 2023-07-10T23:07:09.301Z
+status: down
+code: 502
+responseTime: 3608
+lastUpdated: 2023-07-11T22:33:49.293Z
 startTime: Sun Oct 24 2021 16:44:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
