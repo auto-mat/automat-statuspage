@@ -1,7 +1,7 @@
 url: https://investigace.klub-pratel.cz
-status: up
-code: 200
-responseTime: 650
-lastUpdated: 2023-07-22T23:04:54.891Z
+status: down
+code: 502
+responseTime: 3575
+lastUpdated: 2023-07-23T14:54:57.430Z
 startTime: Sun Oct 24 2021 16:44:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
