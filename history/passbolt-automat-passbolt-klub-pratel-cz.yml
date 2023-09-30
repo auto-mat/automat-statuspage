@@ -1,7 +1,7 @@
 url: https://automat.passbolt.klub-pratel.cz
-status: down
-code: 502
-responseTime: 3399
-lastUpdated: 2023-09-30T02:36:31.486Z
+status: up
+code: 200
+responseTime: 1152
+lastUpdated: 2023-09-30T02:46:23.557Z
 startTime: 2021-10-24T16:43:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
