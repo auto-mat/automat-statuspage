@@ -1,7 +1,7 @@
 url: https://mapa.prahounakole.cz
-status: up
-code: 200
-responseTime: 904
-lastUpdated: 2023-10-14T23:04:30.059Z
+status: down
+code: 502
+responseTime: 3621
+lastUpdated: 2023-10-15T09:52:21.440Z
 startTime: 2021-10-24T16:43:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
