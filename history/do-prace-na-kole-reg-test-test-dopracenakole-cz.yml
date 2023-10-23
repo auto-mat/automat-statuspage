@@ -1,7 +1,7 @@
 url: https://test.dopracenakole.cz
-status: up
-code: 200
-responseTime: 1595
-lastUpdated: 2023-10-22T23:05:05.288Z
+status: down
+code: 502
+responseTime: 8905
+lastUpdated: 2023-10-23T16:55:32.454Z
 startTime: 2021-10-24T16:43:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
