@@ -11,10 +11,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.52%",
     "time": 2078,
-    "timeDay": 1171,
-    "timeWeek": 1442,
-    "timeMonth": 1634,
-    "timeYear": 2070,
+    "timeDay": 1183,
+    "timeWeek": 1432,
+    "timeMonth": 1617,
+    "timeYear": 2069,
     "dailyMinutesDown": {
       "2023-12-09": 28,
       "2023-11-15": 37,
@@ -26,8 +26,7 @@
       "2023-02-11": 1061,
       "2023-01-23": 48,
       "2023-01-19": 519,
-      "2023-01-16": 521,
-      "2022-12-16": 49
+      "2023-01-16": 521
     }
   },
   {
@@ -42,9 +41,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.51%",
     "time": 1449,
-    "timeDay": 1249,
-    "timeWeek": 1239,
-    "timeMonth": 1338,
+    "timeDay": 1408,
+    "timeWeek": 1259,
+    "timeMonth": 1340,
     "timeYear": 1451,
     "dailyMinutesDown": {
       "2023-12-06": 19,
@@ -99,19 +98,18 @@
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.81%",
-    "time": 2268,
-    "timeDay": 10995,
-    "timeWeek": 6054,
-    "timeMonth": 3336,
-    "timeYear": 2160,
+    "time": 2266,
+    "timeDay": 10938,
+    "timeWeek": 6009,
+    "timeMonth": 3327,
+    "timeYear": 2159,
     "dailyMinutesDown": {
       "2023-12-15": 27,
       "2023-12-13": 44,
       "2023-12-08": 29,
       "2023-11-08": 229,
       "2023-10-26": 50,
-      "2023-01-19": 571,
-      "2022-12-16": 67
+      "2023-01-19": 571
     }
   },
   {
@@ -123,12 +121,12 @@
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.13%",
+    "uptimeMonth": "96.92%",
     "uptimeYear": "99.40%",
-    "time": 2328,
-    "timeDay": 1482,
-    "timeWeek": 1710,
-    "timeMonth": 1981,
+    "time": 2327,
+    "timeDay": 1267,
+    "timeWeek": 1712,
+    "timeMonth": 1958,
     "timeYear": 2335,
     "dailyMinutesDown": {
       "2023-11-16": 1415,
@@ -141,8 +139,7 @@
       "2023-01-25": 17,
       "2023-01-19": 380,
       "2023-01-17": 111,
-      "2023-01-16": 579,
-      "2022-12-16": 93
+      "2023-01-16": 579
     }
   },
   {
@@ -157,9 +154,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.45%",
     "time": 2347,
-    "timeDay": 1344,
-    "timeWeek": 1379,
-    "timeMonth": 1925,
+    "timeDay": 1604,
+    "timeWeek": 1397,
+    "timeMonth": 1922,
     "timeYear": 2531,
     "dailyMinutesDown": {
       "2023-11-23": 16,
@@ -207,8 +204,7 @@
       "2023-01-19": 578,
       "2023-01-17": 39,
       "2023-01-16": 53,
-      "2023-01-12": 17,
-      "2022-12-16": 99
+      "2023-01-12": 17
     }
   },
   {
@@ -218,17 +214,16 @@
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "98.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "98.46%",
     "time": 1725,
-    "timeDay": 921,
-    "timeWeek": 1033,
-    "timeMonth": 1717,
-    "timeYear": 1864,
+    "timeDay": 966,
+    "timeWeek": 992,
+    "timeMonth": 1713,
+    "timeYear": 1865,
     "dailyMinutesDown": {
-      "2023-12-15": 9,
       "2023-12-02": 25,
       "2023-11-25": 18,
       "2023-11-23": 16,
@@ -270,8 +265,7 @@
       "2023-01-18": 738,
       "2023-01-17": 490,
       "2023-01-16": 52,
-      "2023-01-12": 17,
-      "2022-12-16": 92
+      "2023-01-12": 17
     }
   },
   {
@@ -286,18 +280,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 982,
-    "timeDay": 594,
-    "timeWeek": 654,
-    "timeMonth": 699,
-    "timeYear": 1030,
+    "timeDay": 1152,
+    "timeWeek": 740,
+    "timeMonth": 707,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2023-11-15": 36,
       "2023-02-18": 212,
       "2023-01-31": 69,
       "2023-01-19": 539,
       "2023-01-16": 236,
-      "2022-12-29": 31,
-      "2022-12-16": 56
+      "2022-12-29": 31
     }
   },
   {
@@ -306,16 +299,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapa.prahounakole.cz.ico",
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.52%",
     "time": 1190,
-    "timeDay": 721,
-    "timeWeek": 801,
-    "timeMonth": 1004,
-    "timeYear": 1277,
+    "timeDay": 776,
+    "timeWeek": 797,
+    "timeMonth": 1002,
+    "timeYear": 1276,
     "dailyMinutesDown": {
       "2023-11-21": 15,
       "2023-10-19": 21,
@@ -351,8 +344,7 @@
       "2023-01-17": 28,
       "2023-01-16": 51,
       "2023-01-12": 17,
-      "2022-12-24": 19,
-      "2022-12-16": 52
+      "2022-12-24": 19
     }
   },
   {
@@ -367,9 +359,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 935,
-    "timeDay": 621,
-    "timeWeek": 566,
-    "timeMonth": 717,
+    "timeDay": 623,
+    "timeWeek": 582,
+    "timeMonth": 716,
     "timeYear": 1002,
     "dailyMinutesDown": {
       "2023-11-01": 36,
@@ -391,8 +383,7 @@
       "2023-01-19": 576,
       "2023-01-16": 50,
       "2023-01-12": 34,
-      "2023-01-10": 22,
-      "2022-12-16": 32
+      "2023-01-10": 22
     }
   },
   {
@@ -401,15 +392,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiles.prahounakole.cz.ico",
     "slug": "dlazdice-pro-mapu",
     "status": "up",
-    "uptime": "77.83%",
+    "uptime": "77.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "52.50%",
     "time": 775,
-    "timeDay": 522,
-    "timeWeek": 557,
-    "timeMonth": 669,
+    "timeDay": 409,
+    "timeWeek": 526,
+    "timeMonth": 667,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2023-11-12": 18,
@@ -595,8 +586,7 @@
       "2023-02-17": 1256,
       "2023-01-20": 696,
       "2023-01-19": 575,
-      "2023-01-16": 49,
-      "2022-12-16": 44
+      "2023-01-16": 49
     }
   },
   {
@@ -610,10 +600,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 1070,
-    "timeDay": 554,
-    "timeWeek": 648,
-    "timeMonth": 701,
+    "time": 1069,
+    "timeDay": 552,
+    "timeWeek": 651,
+    "timeMonth": 690,
     "timeYear": 1160,
     "dailyMinutesDown": {
       "2023-11-15": 35,
@@ -623,8 +613,7 @@
       "2023-01-25": 15,
       "2023-01-19": 459,
       "2023-01-17": 274,
-      "2023-01-16": 521,
-      "2022-12-16": 39
+      "2023-01-16": 521
     }
   },
   {
@@ -639,9 +628,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.62%",
     "time": 1134,
-    "timeDay": 954,
-    "timeWeek": 832,
-    "timeMonth": 949,
+    "timeDay": 895,
+    "timeWeek": 845,
+    "timeMonth": 948,
     "timeYear": 1196,
     "dailyMinutesDown": {
       "2023-11-21": 57,
@@ -659,8 +648,7 @@
       "2023-02-01": 322,
       "2023-01-20": 687,
       "2023-01-19": 574,
-      "2023-01-16": 47,
-      "2022-12-16": 58
+      "2023-01-16": 47
     }
   },
   {
@@ -675,9 +663,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.53%",
     "time": 1275,
-    "timeDay": 554,
-    "timeWeek": 711,
-    "timeMonth": 1188,
+    "timeDay": 537,
+    "timeWeek": 698,
+    "timeMonth": 1185,
     "timeYear": 1405,
     "dailyMinutesDown": {
       "2023-11-25": 18,
@@ -715,8 +703,7 @@
       "2023-02-01": 322,
       "2023-01-20": 687,
       "2023-01-19": 573,
-      "2023-01-16": 46,
-      "2022-12-16": 51
+      "2023-01-16": 46
     }
   },
   {
@@ -731,10 +718,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 675,
-    "timeDay": 464,
-    "timeWeek": 475,
-    "timeMonth": 511,
-    "timeYear": 619,
+    "timeDay": 465,
+    "timeWeek": 489,
+    "timeMonth": 508,
+    "timeYear": 618,
     "dailyMinutesDown": {}
   },
   {
@@ -744,17 +731,16 @@
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 991,
-    "timeDay": 503,
-    "timeWeek": 501,
+    "time": 990,
+    "timeDay": 510,
+    "timeWeek": 487,
     "timeMonth": 510,
-    "timeYear": 1027,
+    "timeYear": 1026,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
       "2023-11-06": 18,
       "2023-07-23": 15,
       "2023-07-13": 15,
@@ -769,8 +755,7 @@
       "2023-02-01": 322,
       "2023-01-20": 687,
       "2023-01-19": 572,
-      "2023-01-16": 44,
-      "2022-12-16": 18
+      "2023-01-16": 44
     }
   },
   {
@@ -779,18 +764,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.klub-pratel.cz.ico",
     "slug": "klub-pratel-test-test-klub-pratel-cz",
     "status": "down",
-    "uptime": "23.06%",
+    "uptime": "23.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 604,
-    "timeDay": 469,
-    "timeWeek": 495,
-    "timeMonth": 505,
-    "timeYear": 598,
+    "timeDay": 516,
+    "timeWeek": 497,
+    "timeMonth": 507,
+    "timeYear": 597,
     "dailyMinutesDown": {
-      "2023-12-15": 1160,
+      "2023-12-16": 65,
+      "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -1153,8 +1139,7 @@
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
-      "2022-12-17": 1440,
-      "2022-12-16": 1440
+      "2022-12-17": 1440
     }
   },
   {
@@ -1169,9 +1154,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.51%",
     "time": 1129,
-    "timeDay": 775,
-    "timeWeek": 914,
-    "timeMonth": 1015,
+    "timeDay": 759,
+    "timeWeek": 890,
+    "timeMonth": 1003,
     "timeYear": 1196,
     "dailyMinutesDown": {
       "2023-11-20": 30,
@@ -1182,8 +1167,7 @@
       "2023-01-18": 670,
       "2023-01-17": 879,
       "2023-01-16": 43,
-      "2023-01-12": 17,
-      "2022-12-16": 33
+      "2023-01-12": 17
     }
   }
 ]
