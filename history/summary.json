@@ -302,9 +302,9 @@
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.53%",
     "time": 1192,
     "timeDay": 870,
@@ -312,7 +312,6 @@
     "timeMonth": 1010,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2023-12-20": 6,
       "2023-11-21": 15,
       "2023-10-19": 21,
       "2023-10-11": 15,
@@ -660,7 +659,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/automat.klub-pratel.cz.ico",
     "slug": "klub-pratel-automat-automat-klub-pratel-cz",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -778,7 +777,8 @@
     "timeMonth": 507,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2023-12-20": 1388,
+      "2023-12-21": 64,
+      "2023-12-20": 1440,
       "2023-12-19": 1440,
       "2023-12-18": 1440,
       "2023-12-17": 1440,
@@ -1141,8 +1141,7 @@
       "2022-12-25": 1440,
       "2022-12-24": 1440,
       "2022-12-23": 1440,
-      "2022-12-22": 1440,
-      "2022-12-21": 1440
+      "2022-12-22": 1440
     }
   },
   {
