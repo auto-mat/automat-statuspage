@@ -1,7 +1,7 @@
 url: https://geoserver1.prahounakole.cz
-status: up
-code: 200
-responseTime: 420
-lastUpdated: 2024-03-22T23:05:12.562Z
+status: down
+code: 502
+responseTime: 3515
+lastUpdated: 2024-03-23T10:34:02.061Z
 startTime: 2021-10-24T16:43:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
