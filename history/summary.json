@@ -56,17 +56,17 @@
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "up",
     "uptime": "96.66%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "97.66%",
     "time": 4475,
     "timeDay": 9983,
-    "timeWeek": 13591,
+    "timeWeek": 13973,
     "timeMonth": 12687,
     "timeYear": 5287,
     "dailyMinutesDown": {
-      "2024-08-09": 77,
+      "2024-08-09": 68,
       "2024-08-08": 68,
       "2024-08-07": 19,
       "2024-08-05": 91,
@@ -209,14 +209,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.32%",
+    "uptimeYear": "82.30%",
     "time": 2198,
     "timeDay": 3897,
     "timeWeek": 3641,
     "timeMonth": 3627,
     "timeYear": 2203,
     "dailyMinutesDown": {
-      "2024-08-09": 1428,
+      "2024-08-10": 73,
+      "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -381,8 +382,7 @@
       "2023-10-04": 19,
       "2023-09-24": 80,
       "2023-09-22": 50,
-      "2023-08-21": 39,
-      "2023-08-11": 20
+      "2023-08-21": 39
     }
   },
   {
@@ -420,10 +420,10 @@
     "slug": "dlazdice-pro-mapu",
     "status": "up",
     "uptime": "82.92%",
-    "uptimeDay": "68.22%",
+    "uptimeDay": "74.17%",
     "uptimeWeek": "88.00%",
     "uptimeMonth": "97.24%",
-    "uptimeYear": "84.76%",
+    "uptimeYear": "84.78%",
     "time": 717,
     "timeDay": 643,
     "timeWeek": 912,
@@ -490,8 +490,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
@@ -601,18 +600,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/investigace.klub-pratel.cz.ico",
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "down",
-    "uptime": "77.46%",
+    "uptime": "77.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.06%",
+    "uptimeYear": "39.04%",
     "time": 1002,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2024-08-09": 1428,
+      "2024-08-10": 74,
+      "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -855,7 +855,8 @@
     "timeMonth": 492,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-08-09": 1428,
+      "2024-08-10": 74,
+      "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
       "2024-08-06": 1440,
@@ -1218,8 +1219,7 @@
       "2023-08-15": 1440,
       "2023-08-14": 1440,
       "2023-08-13": 1440,
-      "2023-08-12": 1440,
-      "2023-08-11": 1440
+      "2023-08-12": 1440
     }
   },
   {
