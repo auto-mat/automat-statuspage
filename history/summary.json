@@ -57,17 +57,16 @@
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "up",
     "uptime": "96.72%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "97.60%",
     "time": 5148,
     "timeDay": 14788,
-    "timeWeek": 15237,
-    "timeMonth": 15010,
+    "timeWeek": 15452,
+    "timeMonth": 14870,
     "timeYear": 6369,
     "dailyMinutesDown": {
-      "2024-08-29": 8,
       "2024-08-28": 131,
       "2024-08-26": 33,
       "2024-08-23": 29,
@@ -212,18 +211,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "down",
-    "uptime": "91.08%",
+    "uptime": "91.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.84%",
+    "uptimeYear": "76.82%",
     "time": 2258,
     "timeDay": 3562,
     "timeWeek": 3641,
     "timeMonth": 3754,
     "timeYear": 2291,
     "dailyMinutesDown": {
-      "2024-08-29": 1433,
+      "2024-08-30": 76,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -334,8 +334,7 @@
       "2023-10-02": 31,
       "2023-09-30": 58,
       "2023-09-29": 4,
-      "2023-09-22": 24,
-      "2023-08-31": 15
+      "2023-09-22": 24
     }
   },
   {
@@ -447,7 +446,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.24%",
-    "uptimeYear": "90.24%",
+    "uptimeYear": "90.26%",
     "time": 715,
     "timeDay": 510,
     "timeWeek": 615,
@@ -494,8 +493,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 1440
+      "2023-09-01": 1440
     }
   },
   {
@@ -599,18 +597,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/investigace.klub-pratel.cz.ico",
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "down",
-    "uptime": "75.97%",
+    "uptime": "75.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.58%",
+    "uptimeYear": "33.56%",
     "time": 961,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2024-08-29": 1433,
+      "2024-08-30": 76,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -873,7 +872,8 @@
     "timeMonth": 509,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2024-08-29": 1433,
+      "2024-08-30": 76,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -1236,8 +1236,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 1440
+      "2023-09-01": 1440
     }
   },
   {
