@@ -56,17 +56,18 @@
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "down",
     "uptime": "96.76%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "97.52%",
+    "uptimeDay": "94.36%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "97.51%",
     "time": 5706,
     "timeDay": 13094,
     "timeWeek": 11856,
     "timeMonth": 13370,
     "timeYear": 7027,
     "dailyMinutesDown": {
-      "2024-09-16": 15,
+      "2024-09-17": 65,
+      "2024-09-16": 16,
       "2024-09-08": 53,
       "2024-09-06": 24,
       "2024-09-03": 99,
@@ -223,7 +224,7 @@
     "uptime": "90.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "24.01%",
+    "uptimeMonth": "24.16%",
     "uptimeYear": "74.07%",
     "time": 2258,
     "timeDay": 853,
@@ -465,7 +466,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.17%",
+    "uptimeYear": "95.19%",
     "time": 713,
     "timeDay": 514,
     "timeWeek": 473,
@@ -494,8 +495,7 @@
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
-      "2023-09-19": 1440,
-      "2023-09-18": 1440
+      "2023-09-19": 1440
     }
   },
   {
@@ -599,17 +599,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/investigace.klub-pratel.cz.ico",
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "down",
-    "uptime": "74.68%",
+    "uptime": "74.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.64%",
+    "uptimeYear": "28.63%",
     "time": 921,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 580,
     "dailyMinutesDown": {
+      "2024-09-17": 65,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -891,6 +892,7 @@
     "timeMonth": 511,
     "timeYear": 540,
     "dailyMinutesDown": {
+      "2024-09-17": 65,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -1254,8 +1256,7 @@
       "2023-09-22": 1440,
       "2023-09-21": 1440,
       "2023-09-20": 1440,
-      "2023-09-19": 1440,
-      "2023-09-18": 1440
+      "2023-09-19": 1440
     }
   },
   {
