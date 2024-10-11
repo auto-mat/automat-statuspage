@@ -54,17 +54,16 @@
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "up",
     "uptime": "99.05%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "96.72%",
-    "uptimeMonth": "98.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "97.36%",
     "time": 5838,
-    "timeDay": 18197,
+    "timeDay": 19663,
     "timeWeek": 6814,
     "timeMonth": 6964,
     "timeYear": 7170,
     "dailyMinutesDown": {
-      "2024-10-10": 9,
       "2024-10-09": 17,
       "2024-10-05": 305,
       "2024-10-03": 28,
@@ -211,8 +210,7 @@
       "2023-11-05": 108,
       "2023-11-03": 75,
       "2023-11-02": 4,
-      "2023-10-23": 18,
-      "2023-10-12": 30
+      "2023-10-23": 18
     }
   },
   {
@@ -516,8 +514,7 @@
     "timeYear": 951,
     "dailyMinutesDown": {
       "2023-11-21": 57,
-      "2023-10-19": 23,
-      "2023-10-12": 25
+      "2023-10-19": 23
     }
   },
   {
@@ -574,14 +571,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "22.07%",
+    "uptimeYear": "22.05%",
     "time": 836,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2024-10-10": 1431,
+      "2024-10-11": 81,
+      "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -875,7 +873,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.klub-pratel.cz.ico",
     "slug": "klub-pratel-test-test-klub-pratel-cz",
     "status": "down",
-    "uptime": "16.67%",
+    "uptime": "16.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -886,7 +884,8 @@
     "timeMonth": 529,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2024-10-10": 1431,
+      "2024-10-11": 81,
+      "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
       "2024-10-07": 1440,
@@ -1249,8 +1248,7 @@
       "2023-10-16": 1440,
       "2023-10-15": 1440,
       "2023-10-14": 1440,
-      "2023-10-13": 1440,
-      "2023-10-12": 1440
+      "2023-10-13": 1440
     }
   },
   {
