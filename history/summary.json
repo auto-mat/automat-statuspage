@@ -48,17 +48,17 @@
     "url": "https://www.cyklistesobe.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyklistesobe.cz.ico",
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "84.83%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "84.80%",
     "uptimeWeek": "93.31%",
     "uptimeMonth": "94.22%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.97%",
     "time": 6376,
-    "timeDay": 2219,
-    "timeWeek": 6986,
-    "timeMonth": 6012,
-    "timeYear": 6840,
+    "timeDay": 1912,
+    "timeWeek": 6712,
+    "timeMonth": 5923,
+    "timeYear": 6831,
     "dailyMinutesDown": {
       "2025-01-07": 142,
       "2025-01-06": 120,
@@ -95,9 +95,7 @@
       "2024-09-30": 38,
       "2024-09-21": 42,
       "2024-09-20": 199,
-      "2024-09-19": 78,
-      "2024-09-17": 74,
-      "2024-09-16": 1
+      "2024-09-19": 78
     }
   },
   {
@@ -507,7 +505,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/investigace.klub-pratel.cz.ico",
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "down",
-    "uptime": "67.49%",
+    "uptime": "67.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -518,7 +516,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-07": 970,
+      "2025-01-07": 1122,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -902,7 +900,7 @@
     "timeMonth": 498,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2025-01-07": 970,
+      "2025-01-07": 1122,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
