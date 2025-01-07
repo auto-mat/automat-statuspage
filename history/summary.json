@@ -48,13 +48,13 @@
     "url": "https://www.cyklistesobe.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyklistesobe.cz.ico",
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "82.23%",
+    "uptimeDay": "82.21%",
     "uptimeWeek": "92.94%",
     "uptimeMonth": "94.14%",
-    "uptimeYear": "98.96%",
-    "time": 6375,
+    "uptimeYear": "98.97%",
+    "time": 6381,
     "timeDay": 1776,
     "timeWeek": 6478,
     "timeMonth": 5844,
@@ -95,7 +95,7 @@
       "2024-09-30": 38,
       "2024-09-21": 42,
       "2024-09-20": 199,
-      "2024-09-19": 78
+      "2024-09-19": 22
     }
   },
   {
@@ -516,7 +516,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-07": 1159,
+      "2025-01-07": 1226,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
@@ -900,7 +900,7 @@
     "timeMonth": 498,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2025-01-07": 1159,
+      "2025-01-07": 1226,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
