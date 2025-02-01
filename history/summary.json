@@ -168,9 +168,9 @@
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "up",
     "uptime": "91.36%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "98.89%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "74.06%",
     "time": 2028,
     "timeDay": 1058,
@@ -178,7 +178,6 @@
     "timeMonth": 1084,
     "timeYear": 2111,
     "dailyMinutesDown": {
-      "2025-02-01": 11,
       "2025-01-28": 101,
       "2024-12-06": 466,
       "2024-11-13": 16,
@@ -405,9 +404,9 @@
     "slug": "dlazdice-pro-mapu",
     "status": "up",
     "uptime": "85.33%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.45%",
     "time": 633,
     "timeDay": 633,
@@ -415,7 +414,6 @@
     "timeMonth": 575,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2025-02-01": 11,
       "2025-01-05": 26,
       "2024-12-21": 329,
       "2024-12-20": 288,
@@ -477,9 +475,9 @@
     "slug": "klub-pratel-automat-automat-klub-pratel-cz",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 824,
     "timeDay": 727,
@@ -487,7 +485,6 @@
     "timeMonth": 737,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2025-02-01": 11,
       "2024-12-06": 103
     }
   },
@@ -526,7 +523,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 580,
+      "2025-02-01": 623,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -910,7 +907,7 @@
     "timeMonth": 499,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2025-02-01": 580,
+      "2025-02-01": 623,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
@@ -1282,19 +1279,19 @@
     "url": "https://limesurvey.dopracenakole.net",
     "icon": "https://icons.duckduckgo.com/ip3/limesurvey.dopracenakole.net.ico",
     "slug": "limesurvey-limesurvey-dopracenakole-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 993,
+    "time": 988,
     "timeDay": 1098,
     "timeWeek": 925,
     "timeMonth": 987,
     "timeYear": 963,
     "dailyMinutesDown": {
-      "2025-02-01": 11
+      "2025-02-01": 1
     }
   }
 ]
