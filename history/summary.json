@@ -50,18 +50,19 @@
     "url": "https://www.cyklistesobe.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyklistesobe.cz.ico",
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.92%",
     "time": 6541,
-    "timeDay": 2504,
-    "timeWeek": 1616,
-    "timeMonth": 1363,
-    "timeYear": 6762,
+    "timeDay": 1698,
+    "timeWeek": 1525,
+    "timeMonth": 1348,
+    "timeYear": 6753,
     "dailyMinutesDown": {
+      "2025-03-01": 0,
       "2025-02-18": 18,
       "2025-01-10": 206,
       "2025-01-09": 255,
@@ -95,8 +96,7 @@
       "2024-11-01": 20,
       "2024-10-31": 19,
       "2024-10-09": 17,
-      "2024-10-05": 305,
-      "2024-10-03": 28
+      "2024-10-05": 305
     }
   },
   {
@@ -173,7 +173,7 @@
     "time": 1961,
     "timeDay": 1451,
     "timeWeek": 1023,
-    "timeMonth": 1242,
+    "timeMonth": 1248,
     "timeYear": 2071,
     "dailyMinutesDown": {
       "2025-02-13": 24,
@@ -323,7 +323,7 @@
     "time": 1065,
     "timeDay": 767,
     "timeWeek": 796,
-    "timeMonth": 877,
+    "timeMonth": 884,
     "timeYear": 1083,
     "dailyMinutesDown": {
       "2025-02-16": 16,
@@ -395,7 +395,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiles.prahounakole.cz.ico",
     "slug": "dlazdice-pro-mapu",
     "status": "up",
-    "uptime": "85.66%",
+    "uptime": "85.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
@@ -403,7 +403,7 @@
     "time": 603,
     "timeDay": 610,
     "timeWeek": 530,
-    "timeMonth": 592,
+    "timeMonth": 590,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2025-02-14": 42,
@@ -475,7 +475,7 @@
     "time": 783,
     "timeDay": 648,
     "timeWeek": 673,
-    "timeMonth": 759,
+    "timeMonth": 756,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2024-12-06": 103
@@ -505,7 +505,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/investigace.klub-pratel.cz.ico",
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "down",
-    "uptime": "64.60%",
+    "uptime": "64.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -516,7 +516,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-01": 96,
+      "2025-03-01": 825,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -900,7 +900,7 @@
     "timeMonth": 537,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-03-01": 96,
+      "2025-03-01": 825,
       "2025-02-28": 1440,
       "2025-02-27": 1440,
       "2025-02-26": 1440,
@@ -1281,7 +1281,7 @@
     "time": 977,
     "timeDay": 913,
     "timeWeek": 930,
-    "timeMonth": 1012,
+    "timeMonth": 1007,
     "timeYear": 970,
     "dailyMinutesDown": {}
   }
