@@ -57,7 +57,7 @@
     "uptime": "99.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.72%",
+    "uptimeMonth": "71.70%",
     "uptimeYear": "96.61%",
     "time": 6503,
     "timeDay": 762,
@@ -65,7 +65,7 @@
     "timeMonth": 1386,
     "timeYear": 6719,
     "dailyMinutesDown": {
-      "2025-03-12": 1370,
+      "2025-03-12": 1379,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -115,19 +115,19 @@
     "url": "https://dopracenakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-dopracenakole-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 576,
-    "timeWeek": 648,
-    "timeMonth": 697,
+    "time": 1171,
+    "timeDay": 621,
+    "timeWeek": 650,
+    "timeMonth": 696,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2025-03-12": 1
+      "2025-03-12": 9
     }
   },
   {
@@ -527,7 +527,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 1370,
+      "2025-03-12": 1379,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -911,7 +911,7 @@
     "timeMonth": 539,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-03-12": 1370,
+      "2025-03-12": 1379,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
