@@ -54,18 +54,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cyklistesobe.cz.ico",
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "down",
-    "uptime": "97.81%",
+    "uptime": "97.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.29%",
-    "uptimeYear": "92.49%",
+    "uptimeMonth": "22.09%",
+    "uptimeYear": "92.47%",
     "time": 6440,
     "timeDay": 758,
     "timeWeek": 801,
     "timeMonth": 1077,
     "timeYear": 6707,
     "dailyMinutesDown": {
-      "2025-03-27": 1439,
+      "2025-03-28": 86,
+      "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
@@ -336,17 +337,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mapa.prahounakole.cz.ico",
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
     "status": "down",
-    "uptime": "99.55%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.54%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.81%",
     "time": 1066,
     "timeDay": 703,
     "timeWeek": 861,
     "timeMonth": 1043,
-    "timeYear": 1089,
+    "timeYear": 1090,
     "dailyMinutesDown": {
+      "2025-03-28": 87,
       "2025-03-27": 1,
       "2025-03-19": 59,
       "2025-03-11": 18,
@@ -383,8 +385,7 @@
       "2024-05-14": 19,
       "2024-05-13": 28,
       "2024-05-11": 18,
-      "2024-04-23": 29,
-      "2024-03-28": 74
+      "2024-04-23": 29
     }
   },
   {
@@ -525,7 +526,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/investigace.klub-pratel.cz.ico",
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "down",
-    "uptime": "63.21%",
+    "uptime": "63.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -536,6 +537,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2025-03-28": 87,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -899,8 +901,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
-      "2024-03-29": 1440,
-      "2024-03-28": 1440
+      "2024-03-29": 1440
     }
   },
   {
@@ -920,6 +921,7 @@
     "timeMonth": 527,
     "timeYear": 523,
     "dailyMinutesDown": {
+      "2025-03-28": 87,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
@@ -1283,8 +1285,7 @@
       "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
-      "2024-03-29": 1440,
-      "2024-03-28": 1440
+      "2024-03-29": 1440
     }
   },
   {
