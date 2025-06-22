@@ -6,9 +6,9 @@
     "slug": "automat-hlavni-stranka-auto-mat-cz",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
     "time": 2121,
     "timeDay": 1584,
@@ -16,7 +16,6 @@
     "timeMonth": 1790,
     "timeYear": 2229,
     "dailyMinutesDown": {
-      "2025-06-21": 14,
       "2025-06-07": 36,
       "2025-05-26": 17,
       "2025-04-09": 27,
@@ -74,9 +73,9 @@
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "up",
     "uptime": "95.53%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "38.07%",
-    "uptimeMonth": "28.08%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "39.55%",
+    "uptimeMonth": "28.11%",
     "uptimeYear": "83.63%",
     "time": 6115,
     "timeDay": 1743,
@@ -84,7 +83,6 @@
     "timeMonth": 1039,
     "timeYear": 6036,
     "dailyMinutesDown": {
-      "2025-06-21": 14,
       "2025-06-19": 446,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
@@ -175,7 +173,8 @@
       "2024-11-14": 74,
       "2024-11-06": 46,
       "2024-11-02": 90,
-      "2024-11-01": 20
+      "2024-11-01": 20,
+      "2024-10-31": 19
     }
   },
   {
@@ -185,9 +184,9 @@
     "slug": "do-prace-na-kole-dopracenakole-cz",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 698,
     "timeDay": 694,
@@ -195,7 +194,6 @@
     "timeMonth": 778,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2025-06-21": 14,
       "2025-06-07": 35,
       "2025-05-22": 21,
       "2025-05-12": 37
@@ -245,7 +243,8 @@
     "timeMonth": 0,
     "timeYear": 1773,
     "dailyMinutesDown": {
-      "2025-06-21": 1417,
+      "2025-06-22": 113,
+      "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -394,8 +393,7 @@
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
-      "2024-06-23": 1440,
-      "2024-06-22": 1440
+      "2024-06-23": 1440
     }
   },
   {
@@ -405,9 +403,9 @@
     "slug": "mestem-na-kole-mestemnakole-cz",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.53%",
     "time": 695,
     "timeDay": 2186,
@@ -415,7 +413,6 @@
     "timeMonth": 771,
     "timeYear": 696,
     "dailyMinutesDown": {
-      "2025-06-21": 14,
       "2025-05-24": 91,
       "2025-01-13": 22,
       "2024-11-15": 496,
@@ -511,9 +508,9 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiles.prahounakole.cz.ico",
     "slug": "dlazdice-pro-mapu",
     "status": "up",
-    "uptime": "86.54%",
+    "uptime": "86.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.55%",
+    "uptimeWeek": "82.90%",
     "uptimeMonth": "91.77%",
     "uptimeYear": "98.25%",
     "time": 638,
@@ -553,9 +550,9 @@
     "slug": "zazit-mesto-jinak-zazitmestojinak-cz",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 757,
     "timeDay": 721,
@@ -563,7 +560,6 @@
     "timeMonth": 848,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-06-21": 14,
       "2025-06-07": 24,
       "2025-05-12": 37,
       "2025-04-09": 27,
@@ -647,7 +643,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-21": 1418,
+      "2025-06-22": 113,
+      "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -1010,8 +1007,7 @@
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
-      "2024-06-23": 1440,
-      "2024-06-22": 1440
+      "2024-06-23": 1440
     }
   },
   {
@@ -1031,7 +1027,8 @@
     "timeMonth": 489,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-06-21": 1418,
+      "2025-06-22": 113,
+      "2025-06-21": 1440,
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
@@ -1394,8 +1391,7 @@
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
-      "2024-06-23": 1440,
-      "2024-06-22": 1440
+      "2024-06-23": 1440
     }
   },
   {
