@@ -39,7 +39,7 @@
     "time": 1395,
     "timeDay": 1373,
     "timeWeek": 1513,
-    "timeMonth": 1401,
+    "timeMonth": 1408,
     "timeYear": 1401,
     "dailyMinutesDown": {
       "2025-06-28": 35,
@@ -75,7 +75,7 @@
     "uptime": "95.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "46.35%",
+    "uptimeMonth": "46.63%",
     "uptimeYear": "83.63%",
     "time": 6079,
     "timeDay": 2102,
@@ -232,7 +232,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "down",
-    "uptime": "86.71%",
+    "uptime": "86.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -243,7 +243,8 @@
     "timeMonth": 0,
     "timeYear": 1718,
     "dailyMinutesDown": {
-      "2025-07-02": 1427,
+      "2025-07-03": 106,
+      "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -392,8 +393,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -428,9 +428,9 @@
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.77%",
     "time": 1066,
     "timeDay": 2785,
@@ -438,7 +438,7 @@
     "timeMonth": 1118,
     "timeYear": 1000,
     "dailyMinutesDown": {
-      "2025-07-02": 55,
+      "2025-07-02": 41,
       "2025-06-25": 25,
       "2025-06-08": 26,
       "2025-06-05": 42,
@@ -638,7 +638,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/investigace.klub-pratel.cz.ico",
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "down",
-    "uptime": "58.66%",
+    "uptime": "58.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -649,7 +649,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-02": 1427,
+      "2025-07-03": 106,
+      "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -1012,8 +1013,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
@@ -1033,7 +1033,8 @@
     "timeMonth": 507,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-07-02": 1427,
+      "2025-07-03": 106,
+      "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -1396,8 +1397,7 @@
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
-      "2024-07-04": 1440,
-      "2024-07-03": 1440
+      "2024-07-04": 1440
     }
   },
   {
