@@ -1,7 +1,7 @@
 url: https://tiles.prahounakole.cz/
-status: up
-code: 200
-responseTime: 600
-lastUpdated: 2025-08-14T23:10:01.219Z
+status: down
+code: 502
+responseTime: 467
+lastUpdated: 2025-08-15T19:16:51.235Z
 startTime: 2021-10-24T16:43:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
