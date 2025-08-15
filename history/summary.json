@@ -250,7 +250,7 @@
     "timeMonth": 0,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2025-08-15": 107,
+      "2025-08-15": 181,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -435,9 +435,9 @@
     "url": "https://mapa.prahounakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/mapa.prahounakole.cz.ico",
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "98.49%",
     "uptimeWeek": "93.92%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "99.47%",
@@ -447,6 +447,7 @@
     "timeMonth": 1896,
     "timeYear": 1133,
     "dailyMinutesDown": {
+      "2025-08-15": 1,
       "2025-08-14": 21,
       "2025-08-13": 32,
       "2025-08-10": 236,
@@ -685,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 108,
+      "2025-08-15": 181,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -1069,7 +1070,7 @@
     "timeMonth": 572,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2025-08-15": 108,
+      "2025-08-15": 181,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
