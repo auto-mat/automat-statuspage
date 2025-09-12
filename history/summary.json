@@ -13,7 +13,7 @@
     "time": 2179,
     "timeDay": 2395,
     "timeWeek": 2302,
-    "timeMonth": 2632,
+    "timeMonth": 2615,
     "timeYear": 2288,
     "dailyMinutesDown": {
       "2025-08-26": 32,
@@ -45,7 +45,7 @@
     "time": 1457,
     "timeDay": 1627,
     "timeWeek": 1501,
-    "timeMonth": 2101,
+    "timeMonth": 2109,
     "timeYear": 1481,
     "dailyMinutesDown": {
       "2025-09-10": 21,
@@ -93,7 +93,7 @@
     "time": 5117,
     "timeDay": 2258,
     "timeWeek": 2339,
-    "timeMonth": 2245,
+    "timeMonth": 2244,
     "timeYear": 3789,
     "dailyMinutesDown": {
       "2025-08-26": 32,
@@ -206,7 +206,7 @@
     "time": 696,
     "timeDay": 727,
     "timeWeek": 754,
-    "timeMonth": 722,
+    "timeMonth": 720,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2025-08-26": 32,
@@ -233,7 +233,7 @@
     "time": 936,
     "timeDay": 832,
     "timeWeek": 713,
-    "timeMonth": 730,
+    "timeMonth": 735,
     "timeYear": 853,
     "dailyMinutesDown": {
       "2025-06-17": 27,
@@ -249,18 +249,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "down",
-    "uptime": "82.37%",
+    "uptime": "82.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.69%",
+    "uptimeYear": "59.66%",
     "time": 1758,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1129,
     "dailyMinutesDown": {
-      "2025-09-11": 1389,
+      "2025-09-12": 84,
+      "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -429,7 +430,7 @@
     "time": 692,
     "timeDay": 689,
     "timeWeek": 736,
-    "timeMonth": 711,
+    "timeMonth": 706,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2025-08-27": 19,
@@ -452,17 +453,16 @@
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.25%",
     "uptimeYear": "99.43%",
     "time": 1204,
     "timeDay": 806,
     "timeWeek": 971,
-    "timeMonth": 1128,
+    "timeMonth": 1129,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2025-09-11": 11,
       "2025-09-10": 63,
       "2025-09-09": 18,
       "2025-09-06": 26,
@@ -524,7 +524,8 @@
       "2024-10-09": 15,
       "2024-10-08": 62,
       "2024-10-04": 24,
-      "2024-09-21": 15
+      "2024-09-21": 15,
+      "2024-09-20": 24
     }
   },
   {
@@ -541,7 +542,7 @@
     "time": 657,
     "timeDay": 520,
     "timeWeek": 591,
-    "timeMonth": 706,
+    "timeMonth": 710,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2025-07-08": 559,
@@ -566,7 +567,7 @@
     "time": 649,
     "timeDay": 1049,
     "timeWeek": 690,
-    "timeMonth": 670,
+    "timeMonth": 663,
     "timeYear": 671,
     "dailyMinutesDown": {
       "2025-08-16": 1094,
@@ -616,7 +617,7 @@
     "time": 752,
     "timeDay": 722,
     "timeWeek": 766,
-    "timeMonth": 797,
+    "timeMonth": 793,
     "timeYear": 780,
     "dailyMinutesDown": {
       "2025-08-26": 32,
@@ -645,7 +646,7 @@
     "time": 835,
     "timeDay": 1001,
     "timeWeek": 864,
-    "timeMonth": 874,
+    "timeMonth": 871,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2025-07-05": 24,
@@ -666,7 +667,7 @@
     "time": 760,
     "timeDay": 892,
     "timeWeek": 781,
-    "timeMonth": 794,
+    "timeMonth": 795,
     "timeYear": 753,
     "dailyMinutesDown": {
       "2025-07-05": 24,
@@ -709,7 +710,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-11": 1389,
+      "2025-09-12": 84,
+      "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -1072,8 +1074,7 @@
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
-      "2024-09-13": 1440,
-      "2024-09-12": 1440
+      "2024-09-13": 1440
     }
   },
   {
@@ -1090,10 +1091,11 @@
     "time": 525,
     "timeDay": 593,
     "timeWeek": 547,
-    "timeMonth": 551,
+    "timeMonth": 552,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2025-09-11": 1389,
+      "2025-09-12": 84,
+      "2025-09-11": 1440,
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
@@ -1456,8 +1458,7 @@
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
-      "2024-09-13": 1440,
-      "2024-09-12": 1440
+      "2024-09-13": 1440
     }
   },
   {
