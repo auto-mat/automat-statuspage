@@ -39,10 +39,10 @@
     "url": "https://obchod.auto-mat.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "98.14%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "98.13%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.76%",
     "time": 1454,
@@ -279,7 +279,7 @@
     "timeMonth": 0,
     "timeYear": 1143,
     "dailyMinutesDown": {
-      "2025-09-30": 1310,
+      "2025-09-30": 1321,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -490,17 +490,16 @@
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "97.96%",
+    "uptimeYear": "99.42%",
     "time": 1237,
     "timeDay": 1084,
     "timeWeek": 2081,
     "timeMonth": 1378,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2025-09-30": 10,
       "2025-09-29": 142,
       "2025-09-28": 26,
       "2025-09-27": 18,
@@ -550,7 +549,8 @@
       "2025-05-16": 23,
       "2025-05-13": 21,
       "2025-05-10": 28,
-      "2025-05-07": 28
+      "2025-05-07": 28,
+      "2025-05-02": 18
     }
   },
   {
@@ -736,7 +736,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-30": 1311,
+      "2025-09-30": 1321,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1120,7 +1120,7 @@
     "timeMonth": 570,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-09-30": 1311,
+      "2025-09-30": 1321,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,
@@ -1494,9 +1494,9 @@
     "slug": "limesurvey-limesurvey-dopracenakole-net",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 977,
     "timeDay": 660,
@@ -1504,7 +1504,6 @@
     "timeMonth": 905,
     "timeYear": 965,
     "dailyMinutesDown": {
-      "2025-09-30": 10,
       "2025-07-05": 23,
       "2025-04-09": 27
     }
