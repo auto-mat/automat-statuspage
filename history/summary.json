@@ -289,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 1145,
     "dailyMinutesDown": {
-      "2025-10-09": 646,
+      "2025-10-09": 656,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
@@ -476,9 +476,9 @@
     "url": "https://mestemnakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/mestemnakole.cz.ico",
     "slug": "mestem-na-kole-mestemnakole-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "80.10%",
+    "uptimeDay": "80.07%",
     "uptimeWeek": "96.95%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.42%",
@@ -760,7 +760,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-09": 647,
+      "2025-10-09": 656,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
@@ -1144,7 +1144,7 @@
     "timeMonth": 555,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2025-10-09": 647,
+      "2025-10-09": 656,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
       "2025-10-06": 1440,
