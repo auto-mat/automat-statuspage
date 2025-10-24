@@ -298,14 +298,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.11%",
+    "uptimeYear": "48.09%",
     "time": 1718,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1160,
     "dailyMinutesDown": {
-      "2025-10-24": 355,
+      "2025-10-24": 474,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
@@ -509,9 +509,9 @@
     "slug": "mestem-na-kole-mestemnakole-cz",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "97.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "97.94%",
     "uptimeYear": "99.32%",
     "time": 737,
     "timeDay": 599,
@@ -519,7 +519,6 @@
     "timeMonth": 1111,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2025-10-24": 10,
       "2025-10-20": 17,
       "2025-10-16": 24,
       "2025-10-10": 45,
@@ -544,10 +543,10 @@
     "url": "https://mapa.prahounakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/mapa.prahounakole.cz.ico",
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "97.74%",
-    "uptimeWeek": "98.81%",
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "98.80%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "99.44%",
     "time": 1181,
@@ -556,6 +555,7 @@
     "timeMonth": 1520,
     "timeYear": 1214,
     "dailyMinutesDown": {
+      "2025-10-24": 1,
       "2025-10-23": 33,
       "2025-10-21": 40,
       "2025-10-18": 26,
@@ -601,7 +601,7 @@
       "2025-08-01": 73,
       "2025-07-30": 100,
       "2025-07-29": 128,
-      "2025-07-28": 45
+      "2025-07-28": 19
     }
   },
   {
@@ -793,7 +793,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-24": 355,
+      "2025-10-24": 474,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
@@ -1177,7 +1177,7 @@
     "timeMonth": 482,
     "timeYear": 534,
     "dailyMinutesDown": {
-      "2025-10-24": 355,
+      "2025-10-24": 474,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
       "2025-10-21": 1440,
