@@ -57,18 +57,19 @@
     "url": "https://obchod.auto-mat.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "97.59%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "97.56%",
     "uptimeWeek": "99.16%",
-    "uptimeMonth": "98.98%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.12%",
     "time": 1474,
     "timeDay": 1331,
     "timeWeek": 1466,
-    "timeMonth": 1603,
+    "timeMonth": 1610,
     "timeYear": 1498,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-11-17": 35,
       "2025-11-13": 35,
       "2025-11-11": 15,
@@ -346,7 +347,7 @@
     "timeMonth": 0,
     "timeYear": 1154,
     "dailyMinutesDown": {
-      "2025-11-18": 298,
+      "2025-11-18": 342,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -608,9 +609,9 @@
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.45%",
     "time": 1188,
     "timeDay": 1224,
@@ -618,7 +619,6 @@
     "timeMonth": 1291,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2025-11-18": 9,
       "2025-11-17": 124,
       "2025-11-16": 55,
       "2025-11-14": 21,
@@ -668,7 +668,8 @@
       "2025-08-06": 78,
       "2025-08-05": 141,
       "2025-08-04": 137,
-      "2025-08-03": 58
+      "2025-08-03": 58,
+      "2025-08-02": 21
     }
   },
   {
@@ -871,7 +872,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 299,
+      "2025-11-18": 343,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -1255,7 +1256,7 @@
     "timeMonth": 648,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2025-11-18": 299,
+      "2025-11-18": 343,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
