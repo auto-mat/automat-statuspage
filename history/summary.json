@@ -79,19 +79,20 @@
     "url": "https://obchod.auto-mat.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "98.98%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "98.96%",
     "time": 1479,
-    "timeDay": 1504,
-    "timeWeek": 1413,
-    "timeMonth": 1477,
+    "timeDay": 1464,
+    "timeWeek": 1403,
+    "timeMonth": 1474,
     "timeYear": 1483,
     "dailyMinutesDown": {
-      "2025-12-28": 65,
+      "2025-12-29": 60,
+      "2025-12-28": 73,
       "2025-12-27": 29,
       "2025-12-26": 19,
       "2025-12-25": 17,
@@ -410,14 +411,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "30.19%",
+    "uptimeYear": "30.18%",
     "time": 1183,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2025-12-28": 1432,
+      "2025-12-29": 60,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -816,7 +818,7 @@
     "slug": "dlazdice-pro-mapu",
     "status": "up",
     "uptime": "87.44%",
-    "uptimeDay": "44.82%",
+    "uptimeDay": "49.52%",
     "uptimeWeek": "75.14%",
     "uptimeMonth": "94.28%",
     "uptimeYear": "95.54%",
@@ -1006,7 +1008,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-28": 1433,
+      "2025-12-29": 61,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -1369,8 +1372,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
@@ -1390,7 +1392,8 @@
     "timeMonth": 565,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-12-28": 1433,
+      "2025-12-29": 61,
+      "2025-12-28": 1440,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
@@ -1753,8 +1756,7 @@
       "2025-01-02": 1440,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
-      "2024-12-30": 1440,
-      "2024-12-29": 1440
+      "2024-12-30": 1440
     }
   },
   {
