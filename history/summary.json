@@ -8,12 +8,12 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.04%",
-    "uptimeMonth": "97.91%",
+    "uptimeMonth": "98.06%",
     "uptimeYear": "99.47%",
     "time": 2122,
     "timeDay": 1503,
     "timeWeek": 1433,
-    "timeMonth": 1831,
+    "timeMonth": 1828,
     "timeYear": 2089,
     "dailyMinutesDown": {
       "2026-01-08": 104,
@@ -89,9 +89,9 @@
     "slug": "automat-eshop-obchod-auto-mat-cz",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "98.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "98.03%",
     "uptimeYear": "98.96%",
     "time": 1466,
     "timeDay": 1133,
@@ -99,7 +99,7 @@
     "timeMonth": 1442,
     "timeYear": 1480,
     "dailyMinutesDown": {
-      "2026-01-09": 29,
+      "2026-01-09": 19,
       "2026-01-05": 35,
       "2026-01-02": 20,
       "2025-12-31": 46,
@@ -177,7 +177,8 @@
       "2025-06-14": 65,
       "2025-06-08": 21,
       "2025-06-07": 21,
-      "2025-05-31": 18
+      "2025-05-31": 18,
+      "2025-05-19": 15
     }
   },
   {
@@ -189,12 +190,12 @@
     "uptime": "96.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
-    "uptimeMonth": "97.89%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "84.10%",
     "time": 2369,
     "timeDay": 1827,
     "timeWeek": 1571,
-    "timeMonth": 1905,
+    "timeMonth": 1902,
     "timeYear": 1954,
     "dailyMinutesDown": {
       "2026-01-08": 104,
@@ -314,8 +315,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1301,
       "2025-03-04": 1061,
-      "2025-02-18": 18,
-      "2025-01-10": 206
+      "2025-02-18": 18
     }
   },
   {
@@ -327,7 +327,7 @@
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
-    "uptimeMonth": "98.18%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "99.61%",
     "time": 699,
     "timeDay": 662,
@@ -425,13 +425,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.90%",
+    "uptimeYear": "26.88%",
     "time": 1134,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1194,
     "dailyMinutesDown": {
+      "2026-01-10": 108,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -902,12 +903,12 @@
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
-    "uptimeMonth": "98.17%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "99.60%",
     "time": 741,
     "timeDay": 731,
     "timeWeek": 680,
-    "timeMonth": 683,
+    "timeMonth": 682,
     "timeYear": 758,
     "dailyMinutesDown": {
       "2026-01-08": 104,
@@ -1043,7 +1044,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 0,
+      "2026-01-10": 109,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1416,7 +1417,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.klub-pratel.cz.ico",
     "slug": "klub-pratel-test-test-klub-pratel-cz",
     "status": "down",
-    "uptime": "11.73%",
+    "uptime": "11.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1427,7 +1428,7 @@
     "timeMonth": 552,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2026-01-10": 0,
+      "2026-01-10": 109,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
