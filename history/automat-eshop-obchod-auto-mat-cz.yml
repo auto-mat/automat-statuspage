@@ -1,7 +1,7 @@
 url: https://obchod.auto-mat.cz/
-status: up
-code: 200
-responseTime: 1404
-lastUpdated: 2026-01-12T23:08:37.269Z
+status: down
+code: 500
+responseTime: 811
+lastUpdated: 2026-01-13T08:22:11.526Z
 startTime: 2021-10-24T16:43:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
