@@ -90,19 +90,19 @@
     "url": "https://obchod.auto-mat.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "98.05%",
     "uptimeMonth": "98.03%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.93%",
     "time": 1469,
     "timeDay": 1543,
     "timeWeek": 1482,
     "timeMonth": 1366,
     "timeYear": 1475,
     "dailyMinutesDown": {
-      "2026-01-25": 17,
+      "2026-01-25": 18,
       "2026-01-22": 132,
       "2026-01-20": 26,
       "2026-01-18": 38,
@@ -178,7 +178,7 @@
       "2025-09-12": 32,
       "2025-09-10": 21,
       "2025-09-09": 53,
-      "2025-09-08": 30
+      "2025-09-08": 8
     }
   },
   {
@@ -435,14 +435,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.57%",
+    "uptimeYear": "22.56%",
     "time": 1143,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2026-01-25": 1165,
+      "2026-01-25": 1188,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1072,7 +1072,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-25": 1166,
+      "2026-01-25": 1189,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
@@ -1456,7 +1456,7 @@
     "timeMonth": 508,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2026-01-25": 1166,
+      "2026-01-25": 1189,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
       "2026-01-22": 1440,
