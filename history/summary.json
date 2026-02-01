@@ -91,9 +91,9 @@
     "url": "https://obchod.auto-mat.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "97.66%",
+    "uptimeDay": "97.63%",
     "uptimeWeek": "98.17%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "98.92%",
@@ -178,8 +178,7 @@
       "2025-09-20": 22,
       "2025-09-19": 16,
       "2025-09-18": 50,
-      "2025-09-15": 42,
-      "2025-09-13": 16
+      "2025-09-15": 42
     }
   },
   {
@@ -404,14 +403,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.71%",
+    "uptimeYear": "20.69%",
     "time": 1145,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2026-02-01": 935,
+      "2026-02-01": 1035,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -1052,7 +1051,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-01": 936,
+      "2026-02-01": 1035,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
@@ -1425,7 +1424,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.klub-pratel.cz.ico",
     "slug": "klub-pratel-test-test-klub-pratel-cz",
     "status": "down",
-    "uptime": "11.56%",
+    "uptime": "11.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1436,7 +1435,7 @@
     "timeMonth": 506,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2026-02-01": 936,
+      "2026-02-01": 1035,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
       "2026-01-29": 1440,
