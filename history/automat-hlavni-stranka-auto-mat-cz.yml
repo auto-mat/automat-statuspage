@@ -1,7 +1,7 @@
 url: https://auto-mat.cz
-status: up
-code: 200
-responseTime: 2177
-lastUpdated: 2026-04-15T23:32:13.602Z
+status: down
+code: 415
+responseTime: 685
+lastUpdated: 2026-04-16T11:31:44.330Z
 startTime: 2021-10-24T16:43:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
