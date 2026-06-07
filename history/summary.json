@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/auto-mat.cz.ico",
     "slug": "automat-hlavni-stranka-auto-mat-cz",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "86.29%",
-    "uptimeMonth": "94.99%",
-    "uptimeYear": "98.66%",
+    "uptime": "99.70%",
+    "uptimeDay": "89.89%",
+    "uptimeWeek": "84.87%",
+    "uptimeMonth": "94.66%",
+    "uptimeYear": "98.63%",
     "time": 1885,
     "timeDay": 1323,
     "timeWeek": 1444,
@@ -70,7 +70,7 @@
       "2026-06-02": 336,
       "2026-06-03": 300,
       "2026-06-04": 680,
-      "2026-06-07": 2
+      "2026-06-07": 146
     }
   },
   {
@@ -171,11 +171,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cyklistesobe.cz.ico",
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "down",
-    "uptime": "99.71%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "98.65%",
+    "uptime": "99.70%",
+    "uptimeDay": "89.90%",
+    "uptimeWeek": "84.92%",
+    "uptimeMonth": "94.68%",
+    "uptimeYear": "98.62%",
     "time": 1870,
     "timeDay": 1499,
     "timeWeek": 1740,
@@ -237,7 +237,7 @@
       "2026-06-02": 336,
       "2026-06-03": 300,
       "2026-06-04": 680,
-      "2026-06-07": 2
+      "2026-06-07": 145
     }
   },
   {
@@ -246,11 +246,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-dopracenakole-cz",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "86.94%",
-    "uptimeMonth": "95.14%",
-    "uptimeYear": "98.69%",
+    "uptime": "99.71%",
+    "uptimeDay": "89.91%",
+    "uptimeWeek": "85.52%",
+    "uptimeMonth": "94.81%",
+    "uptimeYear": "98.66%",
     "time": 702,
     "timeDay": 654,
     "timeWeek": 648,
@@ -310,7 +310,7 @@
       "2026-06-02": 335,
       "2026-06-03": 300,
       "2026-06-04": 680,
-      "2026-06-07": 2
+      "2026-06-07": 145
     }
   },
   {
@@ -354,7 +354,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 101,
+      "2026-06-07": 245,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -926,11 +926,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zazitmestojinak.cz.ico",
     "slug": "zazit-mesto-jinak-zazitmestojinak-cz",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "86.95%",
-    "uptimeMonth": "95.15%",
-    "uptimeYear": "98.69%",
+    "uptime": "99.71%",
+    "uptimeDay": "89.92%",
+    "uptimeWeek": "85.53%",
+    "uptimeMonth": "94.82%",
+    "uptimeYear": "98.66%",
     "time": 738,
     "timeDay": 697,
     "timeWeek": 622,
@@ -990,7 +990,7 @@
       "2026-06-02": 335,
       "2026-06-03": 299,
       "2026-06-04": 679,
-      "2026-06-07": 2
+      "2026-06-07": 145
     }
   },
   {
@@ -1072,7 +1072,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 102,
+      "2026-06-07": 245,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -1445,7 +1445,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.klub-pratel.cz.ico",
     "slug": "klub-pratel-test-test-klub-pratel-cz",
     "status": "down",
-    "uptime": "10.70%",
+    "uptime": "10.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1456,7 +1456,7 @@
     "timeMonth": 394,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2026-06-07": 102,
+      "2026-06-07": 245,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
