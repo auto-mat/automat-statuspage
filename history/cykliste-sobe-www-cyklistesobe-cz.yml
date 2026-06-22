@@ -1,7 +1,7 @@
 url: https://www.cyklistesobe.cz/
-status: up
-code: 200
-responseTime: 2513
-lastUpdated: 2026-06-22T00:01:18.096Z
+status: down
+code: 415
+responseTime: 252
+lastUpdated: 2026-06-22T05:21:05.851Z
 startTime: 2021-10-24T16:43:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
