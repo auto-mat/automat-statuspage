@@ -6,16 +6,17 @@
     "slug": "automat-hlavni-stranka-auto-mat-cz",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "74.50%",
-    "uptimeWeek": "77.37%",
-    "uptimeMonth": "75.76%",
-    "uptimeYear": "97.29%",
+    "uptimeDay": "83.94%",
+    "uptimeWeek": "79.66%",
+    "uptimeMonth": "76.00%",
+    "uptimeYear": "97.27%",
     "time": 1830,
-    "timeDay": 1248,
+    "timeDay": 1388,
     "timeWeek": 1393,
-    "timeMonth": 1375,
+    "timeMonth": 1378,
     "timeYear": 1808,
     "dailyMinutesDown": {
+      "2026-03-31": 66,
       "2026-04-04": 99,
       "2026-04-07": 37,
       "2026-04-08": 46,
@@ -67,7 +68,7 @@
       "2026-06-28": 485,
       "2026-06-29": 117,
       "2026-06-30": 503,
-      "2026-07-01": 367
+      "2026-07-01": 356
     }
   },
   {
@@ -169,16 +170,17 @@
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "74.54%",
-    "uptimeWeek": "75.29%",
-    "uptimeMonth": "75.29%",
-    "uptimeYear": "97.25%",
+    "uptimeDay": "83.96%",
+    "uptimeWeek": "77.58%",
+    "uptimeMonth": "75.54%",
+    "uptimeYear": "97.24%",
     "time": 1852,
-    "timeDay": 1479,
+    "timeDay": 1699,
     "timeWeek": 1637,
-    "timeMonth": 1597,
+    "timeMonth": 1603,
     "timeYear": 1957,
     "dailyMinutesDown": {
+      "2026-03-31": 66,
       "2026-04-04": 99,
       "2026-04-07": 37,
       "2026-04-08": 46,
@@ -230,7 +232,7 @@
       "2026-06-28": 485,
       "2026-06-29": 329,
       "2026-06-30": 502,
-      "2026-07-01": 367
+      "2026-07-01": 356
     }
   },
   {
@@ -240,16 +242,17 @@
     "slug": "do-prace-na-kole-dopracenakole-cz",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "74.58%",
-    "uptimeWeek": "77.41%",
-    "uptimeMonth": "75.81%",
-    "uptimeYear": "97.31%",
+    "uptimeDay": "83.98%",
+    "uptimeWeek": "79.70%",
+    "uptimeMonth": "76.05%",
+    "uptimeYear": "97.30%",
     "time": 696,
-    "timeDay": 650,
+    "timeDay": 651,
     "timeWeek": 613,
-    "timeMonth": 624,
+    "timeMonth": 626,
     "timeYear": 694,
     "dailyMinutesDown": {
+      "2026-03-24": 36,
       "2026-03-28": 19,
       "2026-03-29": 45,
       "2026-04-04": 99,
@@ -301,8 +304,7 @@
       "2026-06-28": 485,
       "2026-06-29": 117,
       "2026-06-30": 502,
-      "2026-07-01": 366,
-      "2026-07-02": 0
+      "2026-07-01": 356
     }
   },
   {
@@ -319,7 +321,7 @@
     "time": 697,
     "timeDay": 569,
     "timeWeek": 660,
-    "timeMonth": 656,
+    "timeMonth": 655,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2025-12-15": 27,
@@ -345,7 +347,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 1,
+      "2026-07-02": 222,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -726,7 +728,7 @@
     "time": 977,
     "timeDay": 834,
     "timeWeek": 1225,
-    "timeMonth": 1134,
+    "timeMonth": 1135,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2025-08-02": 38,
@@ -762,7 +764,7 @@
     "time": 1363,
     "timeDay": 1829,
     "timeWeek": 1264,
-    "timeMonth": 1268,
+    "timeMonth": 1290,
     "timeYear": 1477,
     "dailyMinutesDown": {
       "2025-08-17": 41,
@@ -846,7 +848,7 @@
     "time": 661,
     "timeDay": 587,
     "timeWeek": 621,
-    "timeMonth": 603,
+    "timeMonth": 604,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2025-07-05": 24,
@@ -873,7 +875,7 @@
     "time": 662,
     "timeDay": 646,
     "timeWeek": 621,
-    "timeMonth": 588,
+    "timeMonth": 595,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2025-07-04": 82,
@@ -912,16 +914,17 @@
     "slug": "zazit-mesto-jinak-zazitmestojinak-cz",
     "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "74.63%",
-    "uptimeWeek": "77.32%",
-    "uptimeMonth": "75.82%",
-    "uptimeYear": "97.31%",
+    "uptimeDay": "83.99%",
+    "uptimeWeek": "79.61%",
+    "uptimeMonth": "76.06%",
+    "uptimeYear": "97.30%",
     "time": 730,
-    "timeDay": 647,
+    "timeDay": 644,
     "timeWeek": 725,
-    "timeMonth": 642,
+    "timeMonth": 645,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2026-03-24": 36,
       "2026-03-28": 19,
       "2026-03-29": 45,
       "2026-04-04": 100,
@@ -973,8 +976,7 @@
       "2026-06-28": 485,
       "2026-06-29": 117,
       "2026-06-30": 500,
-      "2026-07-01": 366,
-      "2026-07-02": 0
+      "2026-07-01": 356
     }
   },
   {
@@ -991,7 +993,7 @@
     "time": 858,
     "timeDay": 1140,
     "timeWeek": 1204,
-    "timeMonth": 1187,
+    "timeMonth": 1197,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2025-07-05": 24,
@@ -1012,7 +1014,7 @@
     "time": 797,
     "timeDay": 987,
     "timeWeek": 1072,
-    "timeMonth": 1055,
+    "timeMonth": 1062,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2025-07-05": 24,
@@ -1056,7 +1058,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 2,
+      "2026-07-02": 222,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -1437,10 +1439,10 @@
     "time": 523,
     "timeDay": 334,
     "timeWeek": 408,
-    "timeMonth": 392,
+    "timeMonth": 389,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2026-07-02": 2,
+      "2026-07-02": 222,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
@@ -1821,7 +1823,7 @@
     "time": 921,
     "timeDay": 897,
     "timeWeek": 935,
-    "timeMonth": 961,
+    "timeMonth": 966,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2025-07-05": 23,
