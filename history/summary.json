@@ -4,16 +4,16 @@
     "url": "https://auto-mat.cz",
     "icon": "https://icons.duckduckgo.com/ip3/auto-mat.cz.ico",
     "slug": "automat-hlavni-stranka-auto-mat-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "82.20%",
-    "uptimeWeek": "84.51%",
-    "uptimeMonth": "80.06%",
-    "uptimeYear": "96.92%",
+    "uptimeDay": "77.70%",
+    "uptimeWeek": "84.06%",
+    "uptimeMonth": "79.92%",
+    "uptimeYear": "96.91%",
     "time": 1807,
-    "timeDay": 1156,
-    "timeWeek": 1350,
-    "timeMonth": 1358,
+    "timeDay": 1248,
+    "timeWeek": 1349,
+    "timeMonth": 1361,
     "timeYear": 1772,
     "dailyMinutesDown": {
       "2026-04-29": 133,
@@ -68,7 +68,7 @@
       "2026-07-14": 241,
       "2026-07-15": 147,
       "2026-07-16": 187,
-      "2026-07-17": 191
+      "2026-07-17": 256
     }
   },
   {
@@ -168,17 +168,17 @@
     "url": "https://www.cyklistesobe.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyklistesobe.cz.ico",
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "82.23%",
-    "uptimeWeek": "84.54%",
-    "uptimeMonth": "79.60%",
-    "uptimeYear": "96.88%",
-    "time": 1822,
-    "timeDay": 1364,
-    "timeWeek": 1595,
-    "timeMonth": 1590,
-    "timeYear": 1925,
+    "uptimeDay": "77.75%",
+    "uptimeWeek": "84.09%",
+    "uptimeMonth": "79.46%",
+    "uptimeYear": "96.87%",
+    "time": 1824,
+    "timeDay": 1542,
+    "timeWeek": 1612,
+    "timeMonth": 1598,
+    "timeYear": 1926,
     "dailyMinutesDown": {
       "2026-04-29": 133,
       "2026-04-30": 222,
@@ -232,7 +232,7 @@
       "2026-07-14": 241,
       "2026-07-15": 147,
       "2026-07-16": 187,
-      "2026-07-17": 191
+      "2026-07-17": 255
     }
   },
   {
@@ -240,16 +240,16 @@
     "url": "https://dopracenakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-dopracenakole-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "82.28%",
-    "uptimeWeek": "84.57%",
-    "uptimeMonth": "80.11%",
-    "uptimeYear": "96.93%",
-    "time": 690,
-    "timeDay": 627,
-    "timeWeek": 625,
-    "timeMonth": 625,
+    "uptimeDay": "77.81%",
+    "uptimeWeek": "84.12%",
+    "uptimeMonth": "79.97%",
+    "uptimeYear": "96.91%",
+    "time": 691,
+    "timeDay": 663,
+    "timeWeek": 634,
+    "timeMonth": 627,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2026-04-26": 69,
@@ -304,7 +304,7 @@
       "2026-07-14": 239,
       "2026-07-15": 147,
       "2026-07-16": 186,
-      "2026-07-17": 190
+      "2026-07-17": 254
     }
   },
   {
@@ -347,7 +347,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1120,
+      "2026-07-17": 1186,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -907,16 +907,16 @@
     "url": "https://zazitmestojinak.cz",
     "icon": "https://icons.duckduckgo.com/ip3/zazitmestojinak.cz.ico",
     "slug": "zazit-mesto-jinak-zazitmestojinak-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "82.32%",
-    "uptimeWeek": "84.56%",
-    "uptimeMonth": "80.10%",
-    "uptimeYear": "96.93%",
+    "uptimeDay": "77.86%",
+    "uptimeWeek": "84.11%",
+    "uptimeMonth": "79.95%",
+    "uptimeYear": "96.91%",
     "time": 721,
-    "timeDay": 605,
-    "timeWeek": 615,
-    "timeMonth": 646,
+    "timeDay": 651,
+    "timeWeek": 626,
+    "timeMonth": 648,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2026-04-26": 69,
@@ -971,7 +971,7 @@
       "2026-07-14": 240,
       "2026-07-15": 146,
       "2026-07-16": 186,
-      "2026-07-17": 189
+      "2026-07-17": 253
     }
   },
   {
@@ -1051,7 +1051,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-17": 1121,
+      "2026-07-17": 1187,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
@@ -1435,7 +1435,7 @@
     "timeMonth": 406,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2026-07-17": 1121,
+      "2026-07-17": 1187,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
