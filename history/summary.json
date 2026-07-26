@@ -330,7 +330,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1097,
+      "2026-07-26": 1179,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1028,7 +1028,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 1097,
+      "2026-07-26": 1180,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1412,7 +1412,7 @@
     "timeMonth": 426,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2026-07-26": 1097,
+      "2026-07-26": 1180,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
@@ -1784,20 +1784,20 @@
     "url": "https://limesurvey.dopracenakole.net",
     "icon": "https://icons.duckduckgo.com/ip3/limesurvey.dopracenakole.net.ico",
     "slug": "limesurvey-limesurvey-dopracenakole-net",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.71%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.98%",
     "time": 927,
-    "timeDay": 2232,
-    "timeWeek": 1234,
-    "timeMonth": 1073,
-    "timeYear": 926,
+    "timeDay": 1834,
+    "timeWeek": 1212,
+    "timeMonth": 1072,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2026-02-06": 41,
-      "2026-07-26": 1
+      "2026-07-26": 82
     }
   }
 ]
