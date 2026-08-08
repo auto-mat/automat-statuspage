@@ -228,15 +228,15 @@
     "url": "https://dopracenakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-dopracenakole-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "89.15%",
-    "uptimeYear": "97.22%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "89.08%",
+    "uptimeYear": "97.21%",
     "time": 688,
-    "timeDay": 740,
-    "timeWeek": 727,
+    "timeDay": 717,
+    "timeWeek": 723,
     "timeMonth": 639,
     "timeYear": 686,
     "dailyMinutesDown": {
@@ -286,7 +286,7 @@
       "2026-07-26": 126,
       "2026-07-27": 144,
       "2026-07-28": 314,
-      "2026-08-08": 6
+      "2026-08-08": 35
     }
   },
   {
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 1211,
+      "2026-08-08": 1241,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -889,15 +889,15 @@
     "url": "https://zazitmestojinak.cz",
     "icon": "https://icons.duckduckgo.com/ip3/zazitmestojinak.cz.ico",
     "slug": "zazit-mesto-jinak-zazitmestojinak-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "89.16%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "89.10%",
     "uptimeYear": "97.22%",
-    "time": 702,
-    "timeDay": 684,
-    "timeWeek": 729,
+    "time": 701,
+    "timeDay": 673,
+    "timeWeek": 721,
     "timeMonth": 646,
     "timeYear": 691,
     "dailyMinutesDown": {
@@ -947,7 +947,7 @@
       "2026-07-26": 126,
       "2026-07-27": 143,
       "2026-07-28": 314,
-      "2026-08-08": 1
+      "2026-08-08": 30
     }
   },
   {
@@ -1029,7 +1029,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 1212,
+      "2026-08-08": 1242,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -1413,7 +1413,7 @@
     "timeMonth": 433,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2026-08-08": 1212,
+      "2026-08-08": 1242,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
