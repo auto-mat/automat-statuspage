@@ -8,7 +8,7 @@
     "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "91.42%",
+    "uptimeMonth": "91.50%",
     "uptimeYear": "97.06%",
     "time": 1729,
     "timeDay": 899,
@@ -167,7 +167,7 @@
     "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
-    "uptimeMonth": "91.46%",
+    "uptimeMonth": "91.54%",
     "uptimeYear": "97.03%",
     "time": 1843,
     "timeDay": 2358,
@@ -230,16 +230,16 @@
     "url": "https://dopracenakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-dopracenakole-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "93.83%",
-    "uptimeYear": "97.27%",
-    "time": 689,
-    "timeDay": 871,
-    "timeWeek": 749,
-    "timeMonth": 648,
+    "uptimeYear": "97.26%",
+    "time": 685,
+    "timeDay": 747,
+    "timeWeek": 733,
+    "timeMonth": 647,
     "timeYear": 687,
     "dailyMinutesDown": {
       "2026-06-12": 208,
@@ -289,7 +289,7 @@
       "2026-07-27": 144,
       "2026-07-28": 314,
       "2026-08-08": 35,
-      "2026-08-18": 6
+      "2026-08-18": 38
     }
   },
   {
@@ -332,7 +332,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 440,
+      "2026-08-18": 474,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -885,16 +885,16 @@
     "url": "https://zazitmestojinak.cz",
     "icon": "https://icons.duckduckgo.com/ip3/zazitmestojinak.cz.ico",
     "slug": "zazit-mesto-jinak-zazitmestojinak-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "93.86%",
-    "uptimeYear": "97.27%",
+    "uptimeYear": "97.26%",
     "time": 695,
-    "timeDay": 756,
-    "timeWeek": 714,
-    "timeMonth": 661,
+    "timeDay": 664,
+    "timeWeek": 696,
+    "timeMonth": 660,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2026-06-12": 207,
@@ -944,7 +944,7 @@
       "2026-07-27": 143,
       "2026-07-28": 314,
       "2026-08-08": 30,
-      "2026-08-18": 2
+      "2026-08-18": 34
     }
   },
   {
@@ -1026,7 +1026,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-18": 440,
+      "2026-08-18": 474,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -1410,7 +1410,7 @@
     "timeMonth": 427,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2026-08-18": 441,
+      "2026-08-18": 474,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
