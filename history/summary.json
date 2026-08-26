@@ -4,17 +4,17 @@
     "url": "https://auto-mat.cz",
     "icon": "https://icons.duckduckgo.com/ip3/auto-mat.cz.ico",
     "slug": "automat-hlavni-stranka-auto-mat-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "97.08%",
-    "time": 1723,
-    "timeDay": 672,
-    "timeWeek": 1022,
-    "timeMonth": 889,
-    "timeYear": 1683,
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "97.07%",
+    "time": 1743,
+    "timeDay": 13460,
+    "timeWeek": 4175,
+    "timeMonth": 1429,
+    "timeYear": 1705,
     "dailyMinutesDown": {
       "2026-06-12": 97,
       "2026-06-13": 69,
@@ -64,7 +64,7 @@
       "2026-07-28": 317,
       "2026-07-30": 136,
       "2026-08-11": 55,
-      "2026-08-26": 5
+      "2026-08-26": 44
     }
   },
   {
@@ -166,10 +166,10 @@
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
     "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.38%",
-    "uptimeYear": "97.05%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "98.28%",
+    "uptimeYear": "97.04%",
     "time": 1848,
     "timeDay": 1117,
     "timeWeek": 1585,
@@ -224,7 +224,7 @@
       "2026-07-28": 314,
       "2026-07-30": 135,
       "2026-08-11": 50,
-      "2026-08-26": 1
+      "2026-08-26": 44
     }
   },
   {
@@ -334,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 612,
+      "2026-08-26": 655,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -1026,7 +1026,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 613,
+      "2026-08-26": 655,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -1410,7 +1410,7 @@
     "timeMonth": 428,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2026-08-26": 613,
+      "2026-08-26": 655,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
