@@ -4,16 +4,16 @@
     "url": "https://auto-mat.cz",
     "icon": "https://icons.duckduckgo.com/ip3/auto-mat.cz.ico",
     "slug": "automat-hlavni-stranka-auto-mat-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "98.26%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "98.20%",
     "uptimeYear": "97.09%",
-    "time": 1743,
-    "timeDay": 13460,
-    "timeWeek": 4175,
-    "timeMonth": 1429,
+    "time": 1742,
+    "timeDay": 9191,
+    "timeWeek": 3784,
+    "timeMonth": 1413,
     "timeYear": 1705,
     "dailyMinutesDown": {
       "2026-06-13": 69,
@@ -63,7 +63,7 @@
       "2026-07-28": 317,
       "2026-07-30": 136,
       "2026-08-11": 55,
-      "2026-08-26": 49
+      "2026-08-26": 74
     }
   },
   {
@@ -163,16 +163,16 @@
     "url": "https://www.cyklistesobe.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyklistesobe.cz.ico",
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "98.22%",
+    "uptimeDay": "93.19%",
+    "uptimeWeek": "99.03%",
+    "uptimeMonth": "98.16%",
     "uptimeYear": "97.03%",
-    "time": 1848,
-    "timeDay": 1117,
-    "timeWeek": 1585,
-    "timeMonth": 1288,
+    "time": 1849,
+    "timeDay": 1137,
+    "timeWeek": 1532,
+    "timeMonth": 1285,
     "timeYear": 1882,
     "dailyMinutesDown": {
       "2026-06-12": 96,
@@ -223,7 +223,7 @@
       "2026-07-28": 314,
       "2026-07-30": 135,
       "2026-08-11": 50,
-      "2026-08-26": 73
+      "2026-08-26": 98
     }
   },
   {
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 684,
+      "2026-08-26": 710,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -1025,7 +1025,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-26": 684,
+      "2026-08-26": 710,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -1409,7 +1409,7 @@
     "timeMonth": 428,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2026-08-26": 684,
+      "2026-08-26": 710,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
