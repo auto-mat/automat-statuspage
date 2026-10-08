@@ -4,19 +4,18 @@
     "url": "https://auto-mat.cz",
     "icon": "https://icons.duckduckgo.com/ip3/auto-mat.cz.ico",
     "slug": "automat-hlavni-stranka-auto-mat-cz",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.33%",
-    "uptimeMonth": "99.16%",
-    "uptimeYear": "97.03%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "97.12%",
     "time": 1713,
     "timeDay": 959,
     "timeWeek": 916,
     "timeMonth": 999,
     "timeYear": 1638,
     "dailyMinutesDown": {
-      "2026-06-14": 476,
       "2026-06-15": 761,
       "2026-06-16": 345,
       "2026-06-17": 874,
@@ -63,7 +62,8 @@
       "2026-07-30": 136,
       "2026-08-11": 55,
       "2026-08-26": 74,
-      "2026-10-04": 370
+      "2026-10-04": 370,
+      "2026-10-08": 3
     }
   },
   {
@@ -163,19 +163,18 @@
     "url": "https://www.cyklistesobe.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cyklistesobe.cz.ico",
     "slug": "cykliste-sobe-www-cyklistesobe-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.36%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "96.33%",
     "uptimeMonth": "99.16%",
-    "uptimeYear": "96.98%",
+    "uptimeYear": "96.99%",
     "time": 1874,
-    "timeDay": 1399,
-    "timeWeek": 1733,
-    "timeMonth": 1719,
-    "timeYear": 1771,
+    "timeDay": 1066,
+    "timeWeek": 1633,
+    "timeMonth": 1689,
+    "timeYear": 1770,
     "dailyMinutesDown": {
-      "2026-06-13": 69,
       "2026-06-14": 475,
       "2026-06-15": 759,
       "2026-06-16": 345,
@@ -223,7 +222,8 @@
       "2026-07-30": 135,
       "2026-08-11": 50,
       "2026-08-26": 98,
-      "2026-10-04": 367
+      "2026-10-04": 367,
+      "2026-10-08": 3
     }
   },
   {
@@ -322,7 +322,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "down",
-    "uptime": "64.56%",
+    "uptime": "64.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-08": 298,
+      "2026-10-08": 1051,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
@@ -733,17 +733,17 @@
     "url": "https://mapa.prahounakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/mapa.prahounakole.cz.ico",
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.57%",
-    "time": 1727,
+    "time": 1728,
     "timeDay": 10986,
     "timeWeek": 2518,
     "timeMonth": 3392,
-    "timeYear": 1754,
+    "timeYear": 1756,
     "dailyMinutesDown": {
       "2025-10-10": 45,
       "2025-10-13": 29,
@@ -791,7 +791,8 @@
       "2026-08-07": 55,
       "2026-09-12": 46,
       "2026-09-11": 4,
-      "2026-09-27": 75
+      "2026-09-27": 75,
+      "2026-10-08": 3
     }
   },
   {
@@ -799,11 +800,11 @@
     "url": "https://geoserver1.prahounakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/geoserver1.prahounakole.cz.ico",
     "slug": "geoserver-geoserver1-prahounakole-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.87%",
     "time": 738,
     "timeDay": 547,
@@ -817,7 +818,8 @@
       "2026-02-13": 48,
       "2026-02-26": 56,
       "2026-07-25": 96,
-      "2026-07-30": 300
+      "2026-07-30": 300,
+      "2026-10-08": 2
     }
   },
   {
@@ -825,13 +827,13 @@
     "url": "https://tiles.prahounakole.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/tiles.prahounakole.cz.ico",
     "slug": "dlazdice-pro-mapu",
-    "status": "up",
+    "status": "down",
     "uptime": "89.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "98.06%",
-    "time": 656,
+    "time": 650,
     "timeDay": 943,
     "timeWeek": 591,
     "timeMonth": 625,
@@ -854,7 +856,8 @@
       "2026-06-12": 107,
       "2026-07-30": 235,
       "2026-09-12": 480,
-      "2026-09-11": 4
+      "2026-09-11": 4,
+      "2026-10-08": 2
     }
   },
   {
@@ -929,20 +932,21 @@
     "url": "https://automat.passbolt.klub-pratel.cz",
     "icon": "https://icons.duckduckgo.com/ip3/automat.passbolt.klub-pratel.cz.ico",
     "slug": "passbolt-automat-passbolt-klub-pratel-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 947,
+    "time": 948,
     "timeDay": 1149,
     "timeWeek": 1255,
     "timeMonth": 1290,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2026-02-13": 46,
-      "2026-07-30": 99
+      "2026-07-30": 99,
+      "2026-10-08": 2
     }
   },
   {
@@ -950,10 +954,10 @@
     "url": "https://automat.klub-pratel.cz",
     "icon": "https://icons.duckduckgo.com/ip3/automat.klub-pratel.cz.ico",
     "slug": "klub-pratel-automat-automat-klub-pratel-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 867,
@@ -965,7 +969,8 @@
       "2025-11-20": 34,
       "2026-02-06": 41,
       "2026-02-13": 46,
-      "2026-07-25": 95
+      "2026-07-25": 95,
+      "2026-10-08": 2
     }
   },
   {
@@ -992,7 +997,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/investigace.klub-pratel.cz.ico",
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "down",
-    "uptime": "43.67%",
+    "uptime": "43.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1003,7 +1008,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-08": 299,
+      "2026-10-08": 1052,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
@@ -1376,7 +1381,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.klub-pratel.cz.ico",
     "slug": "klub-pratel-test-test-klub-pratel-cz",
     "status": "down",
-    "uptime": "9.97%",
+    "uptime": "9.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1387,7 +1392,7 @@
     "timeMonth": 452,
     "timeYear": 496,
     "dailyMinutesDown": {
-      "2026-10-08": 299,
+      "2026-10-08": 1052,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
