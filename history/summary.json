@@ -322,7 +322,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "down",
-    "uptime": "64.00%",
+    "uptime": "63.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-24": 219,
+      "2026-10-24": 264,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
@@ -998,7 +998,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-24": 219,
+      "2026-10-24": 265,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
@@ -1382,7 +1382,7 @@
     "timeMonth": 471,
     "timeYear": 497,
     "dailyMinutesDown": {
-      "2026-10-24": 219,
+      "2026-10-24": 265,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
       "2026-10-21": 1440,
@@ -1754,20 +1754,21 @@
     "url": "https://limesurvey.dopracenakole.net",
     "icon": "https://icons.duckduckgo.com/ip3/limesurvey.dopracenakole.net.ico",
     "slug": "limesurvey-limesurvey-dopracenakole-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 947,
+    "time": 946,
     "timeDay": 1358,
     "timeWeek": 1302,
     "timeMonth": 1156,
     "timeYear": 947,
     "dailyMinutesDown": {
       "2026-02-06": 41,
-      "2026-07-26": 82
+      "2026-07-26": 82,
+      "2026-10-24": 1
     }
   }
 ]
