@@ -14,7 +14,7 @@
     "timeDay": 814,
     "timeWeek": 1046,
     "timeMonth": 1142,
-    "timeYear": 1591,
+    "timeYear": 1592,
     "dailyMinutesDown": {
       "2026-06-15": 761,
       "2026-06-16": 345,
@@ -81,7 +81,7 @@
     "timeDay": 1207,
     "timeWeek": 1388,
     "timeMonth": 1558,
-    "timeYear": 1463,
+    "timeYear": 1435,
     "dailyMinutesDown": {
       "2025-11-11": 15,
       "2025-11-13": 35,
@@ -320,7 +320,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "down",
-    "uptime": "63.40%",
+    "uptime": "63.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -331,7 +331,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-10": 379,
+      "2026-11-10": 688,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
@@ -727,17 +727,17 @@
     "url": "https://mapa.prahounakole.cz",
     "icon": "https://icons.duckduckgo.com/ip3/mapa.prahounakole.cz.ico",
     "slug": "mapa-mestem-na-kole-mapa-prahounakole-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.48%",
-    "time": 2195,
+    "time": 2198,
     "timeDay": 1275,
     "timeWeek": 8925,
     "timeMonth": 9155,
-    "timeYear": 2342,
+    "timeYear": 2349,
     "dailyMinutesDown": {
       "2025-11-12": 37,
       "2025-11-14": 21,
@@ -774,7 +774,8 @@
       "2026-09-11": 4,
       "2026-09-27": 75,
       "2026-10-09": 558,
-      "2026-10-08": 391
+      "2026-10-08": 391,
+      "2026-11-10": 2
     }
   },
   {
@@ -989,7 +990,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-10": 380,
+      "2026-11-10": 688,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
@@ -1373,7 +1374,7 @@
     "timeMonth": 454,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2026-11-10": 380,
+      "2026-11-10": 688,
       "2026-11-09": 1440,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
@@ -1748,7 +1749,7 @@
     "status": "up",
     "uptime": "99.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "65.14%",
+    "uptimeWeek": "68.20%",
     "uptimeMonth": "58.84%",
     "uptimeYear": "96.55%",
     "time": 949,
