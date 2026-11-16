@@ -71,17 +71,17 @@
     "url": "https://obchod.auto-mat.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.57%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "93.56%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.10%",
-    "time": 1451,
-    "timeDay": 1888,
-    "timeWeek": 1383,
-    "timeMonth": 1487,
-    "timeYear": 1434,
+    "time": 1450,
+    "timeDay": 1186,
+    "timeWeek": 1313,
+    "timeMonth": 1462,
+    "timeYear": 1433,
     "dailyMinutesDown": {
       "2025-11-17": 35,
       "2025-11-20": 27,
@@ -154,7 +154,8 @@
       "2026-11-09": 182,
       "2026-11-11": 47,
       "2026-11-15": 16,
-      "2026-11-14": 202
+      "2026-11-14": 202,
+      "2026-11-16": 1
     }
   },
   {
@@ -321,7 +322,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "down",
-    "uptime": "63.20%",
+    "uptime": "63.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -332,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-16": 315,
+      "2026-11-16": 664,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -738,7 +739,7 @@
     "timeDay": 1480,
     "timeWeek": 14258,
     "timeMonth": 10453,
-    "timeYear": 2552,
+    "timeYear": 2544,
     "dailyMinutesDown": {
       "2025-11-17": 124,
       "2025-11-18": 26,
@@ -991,7 +992,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-16": 315,
+      "2026-11-16": 665,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
@@ -1375,7 +1376,7 @@
     "timeMonth": 464,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2026-11-16": 315,
+      "2026-11-16": 665,
       "2026-11-15": 1440,
       "2026-11-14": 1440,
       "2026-11-13": 1440,
