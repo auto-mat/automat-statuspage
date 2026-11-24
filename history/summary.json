@@ -71,16 +71,16 @@
     "url": "https://obchod.auto-mat.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/obchod.auto-mat.cz.ico",
     "slug": "automat-eshop-obchod-auto-mat-cz",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "86.75%",
-    "uptimeMonth": "94.05%",
-    "uptimeYear": "98.83%",
-    "time": 1446,
-    "timeDay": 744,
-    "timeWeek": 1160,
-    "timeMonth": 1347,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "51.28%",
+    "uptimeWeek": "84.29%",
+    "uptimeMonth": "92.45%",
+    "uptimeYear": "98.69%",
+    "time": 1447,
+    "timeDay": 1001,
+    "timeWeek": 1159,
+    "timeMonth": 1351,
     "timeYear": 1428,
     "dailyMinutesDown": {
       "2025-11-25": 25,
@@ -156,7 +156,8 @@
       "2026-11-16": 594,
       "2026-11-20": 455,
       "2026-11-21": 427,
-      "2026-11-23": 1
+      "2026-11-24": 64,
+      "2026-11-23": 637
     }
   },
   {
@@ -174,7 +175,7 @@
     "timeDay": 1081,
     "timeWeek": 1360,
     "timeMonth": 1452,
-    "timeYear": 1717,
+    "timeYear": 1716,
     "dailyMinutesDown": {
       "2026-06-14": 475,
       "2026-06-15": 759,
@@ -323,7 +324,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.dopracenakole.cz.ico",
     "slug": "do-prace-na-kole-reg-test-test-dopracenakole-cz",
     "status": "down",
-    "uptime": "62.95%",
+    "uptime": "62.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -334,7 +335,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-23": 805,
+      "2026-11-24": 66,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -697,8 +699,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   },
   {
@@ -716,7 +717,7 @@
     "timeDay": 710,
     "timeWeek": 958,
     "timeMonth": 1098,
-    "timeYear": 1213,
+    "timeYear": 1212,
     "dailyMinutesDown": {
       "2026-02-09": 58,
       "2026-02-14": 18,
@@ -740,7 +741,7 @@
     "timeDay": 1240,
     "timeWeek": 1459,
     "timeMonth": 5514,
-    "timeYear": 2566,
+    "timeYear": 2570,
     "dailyMinutesDown": {
       "2025-11-28": 36,
       "2025-12-03": 22,
@@ -794,7 +795,7 @@
     "timeDay": 731,
     "timeWeek": 954,
     "timeMonth": 1086,
-    "timeYear": 806,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2026-01-05": 20,
       "2026-02-06": 41,
@@ -848,7 +849,7 @@
     "slug": "zazit-mesto-jinak-zazitmestojinak-cz",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "0.11%",
+    "uptimeDay": "48.83%",
     "uptimeWeek": "8.39%",
     "uptimeMonth": "78.92%",
     "uptimeYear": "95.53%",
@@ -930,7 +931,7 @@
     "timeDay": 1332,
     "timeWeek": 1641,
     "timeMonth": 1647,
-    "timeYear": 1094,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2026-02-13": 46,
       "2026-07-30": 99,
@@ -986,7 +987,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/investigace.klub-pratel.cz.ico",
     "slug": "klub-pratel-investigace-investigace-klub-pratel-cz",
     "status": "down",
-    "uptime": "42.58%",
+    "uptime": "42.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -997,7 +998,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-23": 805,
+      "2026-11-24": 67,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -1360,8 +1362,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   },
   {
@@ -1379,9 +1380,10 @@
     "timeDay": 478,
     "timeWeek": 432,
     "timeMonth": 456,
-    "timeYear": 480,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2026-11-23": 805,
+      "2026-11-24": 67,
+      "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
       "2026-11-20": 1440,
@@ -1744,8 +1746,7 @@
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
-      "2025-11-25": 1440,
-      "2025-11-24": 1440
+      "2025-11-25": 1440
     }
   },
   {
